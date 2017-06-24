@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+	<item id="44720" type="Weapon" name="Lindvior Dual Sword">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3411-1" />
+		<!-- set name="oncrit_skill" val="3586-1" / -->
+		<set name="item_skill" val="3552-1;3585-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44721" type="Weapon" name="Lindvior Cutter">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44732" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3578-1;3566-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44722" type="Weapon" name="Lindvior Slasher">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44734" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3582-1;3566-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44723" type="Weapon" name="Lindvior Buster">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3047-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44724" type="Weapon" name="Lindvior Shaper">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3590-1" / -->
+		<set name="item_skill" val="3589-1;3572-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="688" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44725" type="Weapon" name="Lindvior Fighter">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3588-1" / -->
+		<set name="item_skill" val="3587-1;3565-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44726" type="Weapon" name="Lindvior Stormer">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="oncrit_chance" val="40" /><!-- PL 100 -->
+		<!-- set name="oncrit_skill" val="3592-1" / -->
+		<set name="item_skill" val="3591-1;3601-10" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44727" type="Weapon" name="Lindvior Avenger">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3581-1" / -->
+		<set name="item_skill" val="3580-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44728" type="Weapon" name="Lindvior Retributer">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3584-1" / -->
+		<set name="item_skill" val="3583-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44729" type="Weapon" name="Lindvior Caster">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3047-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44730" type="Weapon" name="Lindvior Singer">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3596-1" / -->
+		<set name="item_skill" val="3595-1;3575-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="767" />
+			<set stat="mAtk" val="464" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44731" type="Weapon" name="Lindvior Thrower">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44733" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="12" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="1500" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3593-1;3567-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="1429" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<set val="1" stat="mpConsume">
+				<and>
+					<game skill="false" chance="26" />
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="44732" type="Weapon" name="Lindvior Pincer">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="40" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1280" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44721" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3426-1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3427-1;8289-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="713" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44733" type="Weapon" name="Lindvior Sheutjeh">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="CROSSBOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="400" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44731" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="400" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3635-1;8289-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="877" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44734" type="Weapon" name="Lindvior Nagan">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="15" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="2" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1800" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44722" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3634-1;3566-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="851" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44735" type="Weapon" name="Lindvior Dual Daggers">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="8233" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="2050" />
+		<set name="price" val="171530000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="8298-1" />
+		<set name="item_skill" val="3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player level="81" />
+				<player class_id_restriction="93, 101, 108, 117" /> <!-- Dagger Masters -->
+				<player subclass="false" /> <!-- TEMP FIX only for customs subclass 80+ -->
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="787" /><!-- 688*1.144 -->
+			<set stat="mAtk" val="317" />
+			<set val="12" stat="critRate" />
+			<add val="-3" stat="accCombat" />
+			<set val="433" stat="pAtkSpd" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44736" type="Weapon" name="Lindvior Cutter - Haste">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44736" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3578-1;3564-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44737" type="Weapon" name="Lindvior Cutter - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44770" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3578-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44738" type="Weapon" name="Lindvior Cutter - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44771" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3578-1;3566-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44739" type="Weapon" name="Lindvior Slasher - Haste">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44775" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3582-1;3564-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44740" type="Weapon" name="Lindvior Slasher - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44776" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3582-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44741" type="Weapon" name="Lindvior Slasher - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44777" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3582-1;3566-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44742" type="Weapon" name="Lindvior Buster - Mana Up">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3014-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44743" type="Weapon" name="Lindvior Buster - Acumen">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3047-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44744" type="Weapon" name="Lindvior Buster - Magic Hold">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<set name="oncast_chance" val="5" />
+		<set name="oncast_skill" val="3577-2" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44745" type="Weapon" name="Lindvior Shaper - Crt. Damage">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3590-1" / -->
+		<set name="item_skill" val="3589-1;3572-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="688" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44746" type="Weapon" name="Lindvior Shaper - HP Drain">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3590-1" / -->
+		<set name="item_skill" val="3589-1;3568-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="688" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44747" type="Weapon" name="Lindvior Shaper - Haste">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3590-1" / -->
+		<set name="item_skill" val="3589-1;3564-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="688" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44748" type="Weapon" name="Lindvior Fighter - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3588-1" / -->
+		<set name="item_skill" val="3587-1;3565-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44749" type="Weapon" name="Lindvior Fighter - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3588-1" / -->
+		<set name="item_skill" val="3587-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44750" type="Weapon" name="Lindvior Fighter - Crt. Stun">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="oncrit_chance" val="43" />
+		<set name="oncrit_skill" val="3571-2" />
+		<!-- set name="oncrit_skill" val="3588-1" / -->
+		<set name="item_skill" val="3587-1;3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44751" type="Weapon" name="Lindvior Stormer - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="oncrit_chance" val="40" /><!-- PL 100 -->
+		<!-- set name="oncrit_skill" val="3592-1" / -->
+		<set name="item_skill" val="3591-1;3013-4" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44752" type="Weapon" name="Lindvior Stormer - Guidance">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="oncrit_chance" val="40" /><!-- PL 100 -->
+		<!-- set name="oncrit_skill" val="3592-1" / -->
+		<set name="item_skill" val="3591-1;3602-10" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44753" type="Weapon" name="Lindvior Stormer - Haste">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="oncrit_chance" val="40" /><!-- PL 100 -->
+		<!-- set name="oncrit_skill" val="3592-1" / -->
+		<set name="item_skill" val="3591-1;3601-10" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44754" type="Weapon" name="Lindvior Avenger - HP Drain">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3581-1" / -->
+		<set name="item_skill" val="3580-1;3568-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44755" type="Weapon" name="Lindvior Avenger - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3581-1" / -->
+		<set name="item_skill" val="3580-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44756" type="Weapon" name="Lindvior Avenger - HP Regeneration">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3581-1" / -->
+		<set name="item_skill" val="3580-1;3569-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="787" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44757" type="Weapon" name="Lindvior Retributer - HP Regeneration">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3584-1" / -->
+		<set name="item_skill" val="3583-1;3569-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44758" type="Weapon" name="Lindvior Retributer - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3584-1" / -->
+		<set name="item_skill" val="3583-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44759" type="Weapon" name="Lindvior Retributer - HP Drain">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<!-- set name="oncrit_skill" val="3584-1" / -->
+		<set name="item_skill" val="3583-1;3568-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44760" type="Weapon" name="Lindvior Caster - Acumen">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3047-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44761" type="Weapon" name="Lindvior Caster - MP Regeneration">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3576-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44762" type="Weapon" name="Lindvior Caster - Mana Up">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3598-1" -->
+		<set name="item_skill" val="3597-1;3014-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="630" />
+			<set stat="mAtk" val="422" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44763" type="Weapon" name="Lindvior Singer - Empower">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3596-1" / -->
+		<set name="item_skill" val="3595-1;3575-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="767" />
+			<set stat="mAtk" val="464" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44764" type="Weapon" name="Lindvior Singer - MP Regeneration">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3596-1" / -->
+		<set name="item_skill" val="3595-1;3576-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="767" />
+			<set stat="mAtk" val="464" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44765" type="Weapon" name="Lindvior Singer - Magic Hold">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="4.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_magic_weapon" val="true" />
+		<set name="oncast_chance" val="5" />
+		<set name="oncast_skill" val="3577-2" />
+		<!-- set name="oncast_chance" val="3" / -->
+		<!-- set name="oncast_skill" val="3596-1" / -->
+		<set name="item_skill" val="3595-1;3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="767" />
+			<set stat="mAtk" val="464" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44766" type="Weapon" name="Lindvior Thrower - Cheap Shot">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44772" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="12" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="1500" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3593-1;3552-1;8312-2" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="1429" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<!-- SA: Cheap Shot -->
+			<!-- Notes: There is no SA skill for this one. It's actually modified on the weapon itself. -->
+			<mul stat="mpConsume" val="0.92" />
+		</for>
+	</item>
+	<item id="44767" type="Weapon" name="Lindvior Thrower - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44773" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="12" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="1500" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3593-1;3567-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="1429" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<set val="1" stat="mpConsume">
+				<and>
+					<game skill="false" chance="26" />
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="44768" type="Weapon" name="Lindvior Thrower - Crt. Slow">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="hit_modify" val="-3.75" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44774" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="12" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="1500" />
+		<set name="oncrit_chance" val="33" />
+		<set name="oncrit_skill" val="3574-3" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3593-1;3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="1429" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<set val="1" stat="mpConsume">
+				<and>
+					<game skill="false" chance="26" />
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="44769" type="Weapon" name="Lindvior Pincer - Haste">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="40" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1280" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44736" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3426-1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3427-1;3564-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="713" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44770" type="Weapon" name="Lindvior Pincer - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="40" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1280" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44737" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3426-1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3427-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="713" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44771" type="Weapon" name="Lindvior Pincer - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="40" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1280" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44738" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3426-1" />
+		<!-- set name="oncrit_skill" val="3579-1" / -->
+		<set name="item_skill" val="3427-1;8289-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="713" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44772" type="Weapon" name="Lindvior Sheutjeh - Cheap Shot">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="CROSSBOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="400" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44766" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="400" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3635-1;3360-1;3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="877" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<!-- SA: Cheap Shot -->
+			<!-- Notes: There is no SA skill for this one. It's actually modified on the weapon itself. -->
+			<set stat="mpConsume" val="1">
+				<and>
+					<game chance="12" />
+				</and>
+			</set>
+		</for>
+	</item>
+	<item id="44773" type="Weapon" name="Lindvior Sheutjeh - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="CROSSBOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="400" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44767" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="400" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3635-1;8289-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="877" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44774" type="Weapon" name="Lindvior Sheutjeh - Crt. Slow">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="CROSSBOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="400" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="-1.5" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44768" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="400" />
+		<set name="oncrit_chance" val="24" />
+		<set name="oncrit_skill" val="3574-2" />
+		<!-- set name="oncrit_skill" val="3594-1" / -->
+		<set name="item_skill" val="3635-1;3552-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="877" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44775" type="Weapon" name="Lindvior Nagan - Haste">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="15" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="2" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1800" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44739" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3634-1;3564-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="851" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44776" type="Weapon" name="Lindvior Nagan - Health">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="15" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="2" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1800" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44740" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3634-1;3013-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="851" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44777" type="Weapon" name="Lindvior Nagan - Focus">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="15" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="hit_modify" val="2" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1800" />
+		<set name="price" val="143356000" />
+		<set name="change_weaponId" val="44741" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3634-1;3566-3" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<cond msgId="1518">
+			<and>
+				<player races="KAMAEL" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="851" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="44778" type="Weapon" name="Lindvior Dual Sword">
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="element_enabled" val="True" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3411-1" />
+		<!-- set name="oncrit_skill" val="3586-1" / -->
+		<set name="item_skill" val="3552-1;3585-1" />
+		<set name="time" val="43200" /><!-- 30Days -->
+		<set name="useSkillDisTime" val="1" />
+		<for>
+			<set stat="pAtk" val="958" />
+			<set stat="mAtk" val="317" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+</list>

@@ -1,0 +1,685 @@
+20/06/2017 20:56:18>Makia [268481738]>visible>TagLife>
+20/06/2017 20:56:41>Makia [268481738]>invul>TagLife>
+20/06/2017 20:57:16>Makia [268481738]>teleportto taglife>no-target>
+20/06/2017 20:57:34>Makia [268481738]>gmspeed 3>no-target>
+20/06/2017 20:59:12>Makia [268481738]>kill>TagLife>
+20/06/2017 20:59:13>Makia [268481738]>res>TagLife>
+20/06/2017 20:59:23>Makia [268481738]>para>TagLife>
+20/06/2017 20:59:32>Makia [268481738]>unpara>TagLife>
+20/06/2017 20:59:42>Makia [268481738]>admin>Makia>
+20/06/2017 20:59:45>Makia [268481738]>admin_admin2>Makia>
+20/06/2017 20:59:48>Makia [268481738]>admin_admin7>Makia>
+20/06/2017 20:59:54>Makia [268481738]>admin_announces list>Makia>
+20/06/2017 20:59:57>Makia [268481738]>admin_announces show 1>Makia>
+20/06/2017 20:59:59>Makia [268481738]>admin_announces restart 1>Makia>
+20/06/2017 21:00:00>Makia [268481738]>admin_announces restart 1>Makia>
+20/06/2017 21:00:00>Makia [268481738]>admin_announces restart 1>Makia>
+20/06/2017 21:00:01>Makia [268481738]>admin_announces restart 1>Makia>
+20/06/2017 21:00:01>Makia [268481738]>admin_announces restart 1>Makia>
+20/06/2017 21:00:05>Makia [268481738]>admin>Makia>
+20/06/2017 21:00:10>Makia [268481738]>admin_admin7>Makia>
+20/06/2017 21:00:12>Makia [268481738]>admin_admin4>Makia>
+20/06/2017 21:02:27>Makia [268481738]>gmspeed 4>Makia>
+20/06/2017 21:03:43>Makia [268481738]>gmspeed 4>Makia>
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 57 objId: 268481631 name: Adena count: 567560000)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 6037 count: 2 name: Waking Scroll objId: 268483321)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 8603 count: 1 name: Herb of Mana objId: 268483322)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 8609 count: 1 name: Herb of Casting Spd. objId: 268483323)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 8610 count: 1 name: Herb of Critical Attack - Probability objId: 268483324)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 10655 count: 1 name: Herb of Vampiric Rage objId: 268483325)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 57 objId: 268481631 name: Adena count: 476320000)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 1872 count: 2 name: Animal Bone objId: 268483326)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 8600 count: 1 name: Herb of Life objId: 268483327)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 8604 count: 1 name: Greater Herb of Mana objId: 268483328)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:18>Makia [268481738]>Loot(id: 8608 count: 1 name: Herb of Alacrity objId: 268483329)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:24>Makia [268481738]>Loot(id: 57 objId: 268481631 name: Adena count: 497100000)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:24>Makia [268481738]>Loot(id: 1872 objId: 268483326 name: Animal Bone count: 2)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:24>Makia [268481738]>Loot(id: 8606 count: 1 name: Herb of Power objId: 268483331)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:05:43>Makia [268481738]>gmshop>Makia>
+20/06/2017 21:05:45>Makia [268481738]>admin_html gmstore/gear/weapons.htm>Makia>
+20/06/2017 21:05:48>Makia [268481738]>admin_buy 9981>Makia>
+20/06/2017 21:05:58>Makia [268481738]>Buy(id: 16159 count: 1 name: Eternal Core Dual Sword {PvP} objId: 268483335)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 21:06:03>Makia [268481738]>admin>Makia>
+20/06/2017 21:06:04>Makia [268481738]>admin_find_character>Makia>
+20/06/2017 21:06:06>Makia [268481738]>admin_character_info Makia>Makia>
+20/06/2017 21:06:07>Makia [268481738]>admin_edit_character>Makia>
+20/06/2017 21:06:09>Makia [268481738]>admin_character_info Makia>Makia>
+20/06/2017 21:06:11>Makia [268481738]>admin_add_exp_sp_to_character>Makia>
+20/06/2017 21:06:14>Makia [268481738]>admin_set_level 85>Makia>
+20/06/2017 21:06:23>Makia [268481738]>enchant>Makia>
+20/06/2017 21:06:27>Makia [268481738]>admin_setew 15>Makia>
+20/06/2017 21:06:30>Makia [268481738]>admin_setew 10>Makia>
+20/06/2017 21:06:33>Makia [268481738]>admin_setew 5>Makia>
+20/06/2017 21:06:36>Makia [268481738]>admin_setew 3>Makia>
+20/06/2017 21:06:37>Makia [268481738]>admin_setew 4>Makia>
+20/06/2017 21:06:39>Makia [268481738]>admin_setew 12>Makia>
+20/06/2017 21:06:41>Makia [268481738]>admin_setew 13>Makia>
+20/06/2017 21:06:42>Makia [268481738]>admin_setew 16>Makia>
+20/06/2017 21:06:43>Makia [268481738]>admin_setew 191>Makia>
+20/06/2017 21:06:45>Makia [268481738]>admin_setew 20>Makia>
+20/06/2017 21:06:47>Makia [268481738]>admin_setew 60>Makia>
+20/06/2017 21:06:48>Makia [268481738]>admin_setew 30>Makia>
+20/06/2017 21:06:50>Makia [268481738]>admin_setew 120>Makia>
+20/06/2017 21:06:52>Makia [268481738]>admin_setew 150>Makia>
+20/06/2017 21:06:54>Makia [268481738]>admin_setew 300>Makia>
+20/06/2017 21:06:56>Makia [268481738]>admin_setew 1000>Makia>
+20/06/2017 21:07:03>Makia [268481738]>sethero>Makia>
+20/06/2017 21:07:08>Makia [268481738]>admin>Makia>
+20/06/2017 21:07:10>Makia [268481738]>admin_find_character>Makia>
+20/06/2017 21:07:11>Makia [268481738]>admin_character_info Makia>Makia>
+20/06/2017 21:07:13>Makia [268481738]>admin_edit_character>Makia>
+20/06/2017 21:07:23>Makia [268481738]>admin_setcolor 66666>Makia>
+20/06/2017 21:07:25>Makia [268481738]>Loot(id: 8603 count: 1 name: Herb of Mana objId: 268483345)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:07:25>Makia [268481738]>Loot(id: 8606 count: 1 name: Herb of Power objId: 268483346)>Tumran Bugbear>L2Object referencing this action is: Tumran Bugbear
+20/06/2017 21:07:31>Makia [268481738]>gmshop>Tumran Bugbear>
+20/06/2017 21:07:32>Makia [268481738]>admin_html gmstore/gear/armor.htm>Tumran Bugbear>
+20/06/2017 21:07:35>Makia [268481738]>admin_buy 9958>Tumran Bugbear>
+20/06/2017 21:07:44>Makia [268481738]>Buy(id: 15575 count: 1 name: Elegia Breastplate objId: 268483348)>no-target>L2Object referencing this action is: no-reference
+20/06/2017 21:07:44>Makia [268481738]>Buy(id: 15578 count: 1 name: Elegia Gaiter objId: 268483349)>no-target>L2Object referencing this action is: no-reference
+20/06/2017 21:07:44>Makia [268481738]>Buy(id: 15572 count: 1 name: Elegia Helmet objId: 268483350)>no-target>L2Object referencing this action is: no-reference
+20/06/2017 21:07:44>Makia [268481738]>Buy(id: 15581 count: 1 name: Elegia Gauntlet objId: 268483351)>no-target>L2Object referencing this action is: no-reference
+20/06/2017 21:07:44>Makia [268481738]>Buy(id: 15584 count: 1 name: Elegia Boots objId: 268483352)>no-target>L2Object referencing this action is: no-reference
+20/06/2017 21:07:51>Makia [268481738]>gmshop>no-target>
+20/06/2017 21:07:52>Makia [268481738]>Loot(id: 8606 count: 1 name: Herb of Power objId: 268483353)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:07:52>Makia [268481738]>Loot(id: 8609 count: 1 name: Herb of Casting Spd. objId: 268483354)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:07:52>Makia [268481738]>Loot(id: 10655 count: 1 name: Herb of Vampiric Rage objId: 268483355)>Dire Wolf>L2Object referencing this action is: Dire Wolf
+20/06/2017 21:08:07>Makia [268481738]>admin_buy 9909>Makia>
+20/06/2017 21:08:14>Makia [268481738]>Buy(id: 21590 count: 1 name: Festival's Cloak - Pearl White - Event objId: 268483358)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 21:08:20>Makia [268481738]>gmshop>Makia>
+20/06/2017 21:08:38>Makia [268481738]>recall taglife>Makia>
+20/06/2017 21:08:50>Makia [268481738]>admin_html gmstore/hair.htm>Makia>
+20/06/2017 21:08:52>Makia [268481738]>admin_buy 9986>Makia>
+20/06/2017 21:09:02>Makia [268481738]>Buy(id: 20711 count: 1 name: Jack O'Lantern Mask (Event) objId: 268483365)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 21:09:02>Makia [268481738]>Buy(id: 20712 count: 1 name: Super Strong Giant's Mask (Event) - Blessing of Skooldy : Protection of Darkness - 2 Hour Limited Period objId: 268483366)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 21:09:02>Makia [268481738]>Buy(id: 20716 count: 1 name: Planet X235 Alien Mask (Event) - Blessing of Skooldy : Protection of Darkness - 2 Hour Limited Period objId: 268483367)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 21:09:02>Makia [268481738]>Buy(id: 20722 count: 1 name: Shiny Planet X235 Alien Mask (Event) - Blessing of Halloween - 4-Hour Limited Period objId: 268483368)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 21:09:22>Makia [268481738]>enchant>Makia>
+20/06/2017 21:09:24>Makia [268481738]>admin_setew 13>Makia>
+20/06/2017 21:09:27>Makia [268481738]>admin_setew 16>Makia>
+20/06/2017 21:09:34>Makia [268481738]>gmshop>Makia>
+20/06/2017 21:09:43>Makia [268481738]>admin_html gmstore/hair.htm>Makia>
+20/06/2017 21:09:44>Makia [268481738]>admin_buy 9944>Makia>
+20/06/2017 21:09:56>Makia [268481738]>setkarma 0>TagLife>
+20/06/2017 21:10:05>Makia [268481738]>admin>TagLife>
+20/06/2017 21:10:06>Makia [268481738]>admin_find_character>TagLife>
+20/06/2017 21:10:07>Makia [268481738]>admin_character_info TagLife>TagLife>
+20/06/2017 21:10:08>Makia [268481738]>admin_add_exp_sp_to_character>TagLife>
+20/06/2017 21:10:10>Makia [268481738]>admin_set_level 85>TagLife>
+20/06/2017 21:10:36>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:10:37>Makia [268481738]>admin_html gmstore/gear/armor.htm>TagLife>
+20/06/2017 21:10:38>Makia [268481738]>admin_buy 9958>TagLife>
+20/06/2017 21:10:49>Makia [268481738]>Buy(id: 16172 count: 1 name: Vorpal Leather Breastplate {PvP} objId: 268483400)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:10:49>Makia [268481738]>Buy(id: 15596 count: 1 name: Vorpal Leather Legging objId: 268483401)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:10:49>Makia [268481738]>Buy(id: 15593 count: 1 name: Vorpal Leather Breastplate objId: 268483402)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:10:49>Makia [268481738]>Buy(id: 15590 count: 1 name: Vorpal Leather Helmet objId: 268483403)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:10:49>Makia [268481738]>Buy(id: 15599 count: 1 name: Vorpal Leather Gloves objId: 268483404)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:10:49>Makia [268481738]>Buy(id: 15602 count: 1 name: Vorpal Leather Boots objId: 268483405)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:10:51>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:10:52>Makia [268481738]>admin_html gmstore/gear/weapons.htm>TagLife>
+20/06/2017 21:10:55>Makia [268481738]>admin_buy 9981>TagLife>
+20/06/2017 21:11:04>Makia [268481738]>Buy(id: 16157 count: 1 name: Mamba Edge Dual Daggers {PvP} objId: 268483406)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:11:12>Makia [268481738]>Trade(id: 15596 name: Vorpal Leather Legging)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:12>Makia [268481738]>Trade(id: 15593 name: Vorpal Leather Breastplate)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:12>Makia [268481738]>Trade(id: 15590 name: Vorpal Leather Helmet)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:12>Makia [268481738]>Trade(id: 15602 name: Vorpal Leather Boots)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:12>Makia [268481738]>Trade(id: 15599 name: Vorpal Leather Gloves)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:13>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:11:14>Makia [268481738]>admin_html gmstore/gear/weapons.htm>TagLife>
+20/06/2017 21:11:18>Makia [268481738]>admin_buy 9907>TagLife>
+20/06/2017 21:11:23>Makia [268481738]>Buy(id: 16156 count: 1 name: Mamba Edge Dual Daggers objId: 268483407)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:11:26>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:11:28>Makia [268481738]>admin_buy 9909>TagLife>
+20/06/2017 21:11:30>Makia [268481738]>Buy(id: 21587 count: 1 name: 7th Anniversary Cloak - Blood Red objId: 268483408)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:11:36>Makia [268481738]>Trade(id: 16156 name: Mamba Edge Dual Daggers)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:36>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:11:38>Makia [268481738]>admin_buy 9909>TagLife>
+20/06/2017 21:11:40>Makia [268481738]>Buy(id: 21718 count: 1 name: Cloak of Frintezza objId: 268483409)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:11:45>Makia [268481738]>Trade(id: 21718 name: Cloak of Frintezza)>TagLife>L2Object referencing this action is: TagLife
+20/06/2017 21:11:46>Makia [268481738]>enchant>TagLife>
+20/06/2017 21:11:49>Makia [268481738]>admin_setew 16>TagLife>
+20/06/2017 21:11:55>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:12:11>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:12:14>Makia [268481738]>admin_html gmstore/gear/armor.htm>TagLife>
+20/06/2017 21:12:16>Makia [268481738]>admin_buy 9958>TagLife>
+20/06/2017 21:12:22>Makia [268481738]>Buy(id: 15590 count: 1 name: Vorpal Leather Helmet objId: 268483411)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:12:25>Makia [268481738]>Drop(id: 15590 name: Vorpal Leather Helmet)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:12:25>Makia [268481738]>Drop>TagLife>(id: 15590 name: Vorpal Leather Helmet objId: 268483411 x: 83225 y: 148263 z: -3405)
+20/06/2017 21:12:41>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:12:44>Makia [268481738]>admin_html gmstore/hair.htm>TagLife>
+20/06/2017 21:12:45>Makia [268481738]>admin_buy 9986>TagLife>
+20/06/2017 21:12:53>Makia [268481738]>Buy(id: 20719 count: 1 name: Shiny Mask of Silent Scream (Event) - Blessing of Halloween - 4-Hour Limited Period objId: 268483417)>TagLife>L2Object referencing this action is: no-reference
+20/06/2017 21:13:00>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:13:04>Makia [268481738]>admin_html gmstore/hair.htm>TagLife>
+20/06/2017 21:13:06>Makia [268481738]>admin_buy 9920>TagLife>
+20/06/2017 21:13:21>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:13:44>Makia [268481738]>admin>TagLife>
+20/06/2017 21:13:46>Makia [268481738]>admin_find_character>TagLife>
+20/06/2017 21:13:47>Makia [268481738]>admin_character_info TagLife>TagLife>
+20/06/2017 21:13:51>Makia [268481738]>admin_edit_character>TagLife>
+20/06/2017 21:13:56>Makia [268481738]>admin_changelvl 7>TagLife>
+20/06/2017 21:14:19>Makia [268481738]>gmshop>TagLife>
+20/06/2017 21:14:23>Makia [268481738]>admin_html gmstore/hair.htm>TagLife>
+20/06/2017 21:14:25>Makia [268481738]>admin_buy 9986>TagLife>
+20/06/2017 21:16:31>Makia [268481738]>gmspeed 4>no-target>
+20/06/2017 21:16:56>Makia [268481738]>gmspeed 4>no-target>
+20/06/2017 21:17:26>Makia [268481738]>kill>TagLife>
+20/06/2017 21:17:35>Makia [268481738]>kill>TagLife>
+20/06/2017 21:17:54>Makia [268481738]>admin>TagLife>
+20/06/2017 21:17:56>Makia [268481738]>admin_find_character>TagLife>
+20/06/2017 21:17:57>Makia [268481738]>admin_character_info TagLife>TagLife>
+20/06/2017 21:18:02>Makia [268481738]>admin_kick_menu TagLife>TagLife>
+20/06/2017 21:18:22>Makia [268481738]>admin>no-target>
+20/06/2017 21:18:24>Makia [268481738]>admin_admin7>no-target>
+20/06/2017 21:18:27>Makia [268481738]>admin_admin2>no-target>
+20/06/2017 21:18:29>Makia [268481738]>admin_admin6>no-target>
+20/06/2017 21:18:37>Makia [268481738]>gmspeed 4>Makia>
+20/06/2017 21:20:11>Makia [268481738]>admin>TagLife>
+20/06/2017 21:20:13>Makia [268481738]>admin_admin6>TagLife>
+20/06/2017 21:20:26>Makia [268481738]>admin>TagLife>
+20/06/2017 21:20:30>Makia [268481738]>admin_check_bots>TagLife>
+20/06/2017 21:20:33>Makia [268481738]>admin_check_farm_bots>TagLife>
+20/06/2017 21:20:37>Makia [268481738]>admin>TagLife>
+20/06/2017 21:20:38>Makia [268481738]>admin_admin2>TagLife>
+20/06/2017 21:20:39>Makia [268481738]>admin_admin6>TagLife>
+20/06/2017 21:20:41>Makia [268481738]>admin_admin7>TagLife>
+20/06/2017 21:20:41>Makia [268481738]>admin_admin>TagLife>
+20/06/2017 21:20:43>Makia [268481738]>admin_check_bots>TagLife>
+20/06/2017 21:20:45>Makia [268481738]>admin_check_farm_bots>Makia>
+20/06/2017 21:21:02>Makia [268481738]>gmspeed 4>Makia>
+20/06/2017 21:22:10>Makia [268481738]>Scheme system(id: 57 objId: 268481631 name: Adena count: -200)>Angeline>L2Object referencing this action is: Makia
+20/06/2017 21:22:14>Makia [268481738]>Scheme system(id: 57 objId: 268481631 name: Adena count: -200)>Angeline>L2Object referencing this action is: Makia
+20/06/2017 21:22:32>Makia [268481738]>Scheme system(id: 57 objId: 268481631 name: Adena count: -4500)>Angeline>L2Object referencing this action is: Makia
+20/06/2017 21:23:10>Makia [268481738]>admin>TagLife>
+20/06/2017 21:23:11>Makia [268481738]>admin_admin6>TagLife>
+20/06/2017 21:23:12>Makia [268481738]>admin_admin>TagLife>
+20/06/2017 21:23:13>Makia [268481738]>admin_admin2>TagLife>
+20/06/2017 21:23:15>Makia [268481738]>admin_admin7>TagLife>
+20/06/2017 21:23:16>Makia [268481738]>admin_admin>TagLife>
+20/06/2017 21:23:17>Makia [268481738]>admin_find_character>TagLife>
+20/06/2017 21:23:23>Makia [268481738]>admin_character_info TagLife>TagLife>
+20/06/2017 21:23:24>Makia [268481738]>admin_edit_character>TagLife>
+20/06/2017 21:23:32>Makia [268481738]>setkarma 0>TagLife>
+20/06/2017 21:23:34>Makia [268481738]>admin_changelvl 8>TagLife>
+20/06/2017 21:25:00>Makia [268481738]>gmspeed 4>TagLife>
+20/06/2017 21:25:06>Makia [268481738]>invul>TagLife>
+20/06/2017 21:25:35>Makia [268481738]>admin>Delu Lizardman Commander>
+20/06/2017 21:25:38>Makia [268481738]>admin_scan>Delu Lizardman Commander>
+20/06/2017 21:25:44>Makia [268481738]>admin>no-target>
+20/06/2017 21:25:46>Makia [268481738]>admin_move_to>no-target>
+20/06/2017 21:26:24>Makia [268481738]>Community Teleport(id: 57 objId: 268481631 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 21:26:37>Makia [268481738]>gmshop>Maluk Hunter>
+20/06/2017 21:26:42>Makia [268481738]>admin_html gmstore/consumables.htm>Maluk Hunter>
+20/06/2017 21:26:44>Makia [268481738]>admin_buy 9938>Maluk Hunter>
+20/06/2017 21:27:00>Makia [268481738]>Buy(id: 1467 count: 20000 name: Soulshot (S-Grade) objId: 268483984)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:27:04>Makia [268481738]>Drop(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -10000)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:27:04>Makia [268481738]>Drop(id: 1467 count: 10000 name: Soulshot (S-Grade) objId: 268483985)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:27:04>Makia [268481738]>Drop>Maluk Hunter>(id: 1467 name: Soulshot (S-Grade) objId: 268483985 x: 131771 y: 114453 z: -3725)
+20/06/2017 21:27:16>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:27:36>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14221039616)>Maluk Hunter>L2Object referencing this action is: TagLife
+20/06/2017 21:27:38>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 24334200832)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:27:38>Makia [268481738]>Party(id: 1885 count: 2 name: High-Grade Suede objId: 268483988)>Maluk Princess>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:27:38>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40342478848)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:27:39>Makia [268481738]>Party(id: 1879 count: 14 name: Cokes objId: 268483989)>Maluk Princess>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:27:39>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 23842840576)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:27:39>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 2)>Maluk Princess>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:27:39>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Princess>L2Object referencing this action is: no-reference
+20/06/2017 21:27:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39772258304)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:27:44>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:27:44>Makia [268481738]>Party(id: 9629 count: 2 name: Adamantine objId: 268483990)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:27:46>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40716218368)>Maluk Warlord>L2Object referencing this action is: TagLife
+20/06/2017 21:27:48>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 24012099584)>Maluk Princess>L2Object referencing this action is: TagLife
+20/06/2017 21:28:05>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 38841839616)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:28:05>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:28:05>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:05>Makia [268481738]>Party(id: 15669 count: 2 name: Sealed Vesper Verteidiger Piece objId: 268483994)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:07>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39517921280)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:28:07>Makia [268481738]>Party(id: 1888 count: 2 name: Synthetic Cokes objId: 268483996)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:07>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:28:08>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14335219712)>Maluk Hunter>L2Object referencing this action is: TagLife
+20/06/2017 21:28:08>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40699260928)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:08>Makia [268481738]>Party(id: 9549 count: 2 name: Wind Stone objId: 268483997)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:08>Makia [268481738]>Party(id: 15669 objId: 268483994 name: Sealed Vesper Verteidiger Piece count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:08>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40186359808)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 12)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40619020288)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 10)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 15661 count: 2 name: Sealed Vesper Leather Helmet Piece objId: 268483998)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 24484679680)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 4040 count: 2 name: Mold Lubricant objId: 268483999)>Maluk Hunter>L2Object referencing this action is: Maluk Banshee
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 25145800704)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 14166 count: 2 name: Life Stone - Level 84 objId: 268484000)>Maluk Hunter>L2Object referencing this action is: Maluk Banshee
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14048000000)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 1895 count: 2 name: Metallic Fiber objId: 268484001)>Maluk Hunter>L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 44488740864)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:09>Makia [268481738]>Party(id: 9548 count: 2 name: Earth Stone objId: 268484002)>Maluk Hunter>L2Object referencing this action is: Dragon Knight
+20/06/2017 21:28:09>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:28:10>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40999780352)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:28:10>Makia [268481738]>Party(id: 5550 count: 2 name: Durable Metal Plate objId: 268484004)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:10>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:28:12>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39591858176)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:28:12>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:12>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:28:14>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 43605921792)>Dragon Knight>L2Object referencing this action is: Makia
+20/06/2017 21:28:14>Makia [268481738]>Party(id: 4039 count: 2 name: Mold Glue objId: 268484006)>Dragon Knight>L2Object referencing this action is: Dragon Knight
+20/06/2017 21:28:14>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Dragon Knight>L2Object referencing this action is: no-reference
+20/06/2017 21:28:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14296280064)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:16>Makia [268481738]>Party(id: 4040 objId: 268483999 name: Mold Lubricant count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:28:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40027901952)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:16>Makia [268481738]>Party(id: 1888 objId: 268483996 name: Synthetic Cokes count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:28:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14304339968)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:28:16>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Hunter>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:28:16>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:28:21>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 322513731584)>Knoriks>L2Object referencing this action is: Makia
+20/06/2017 21:28:21>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Knoriks>L2Object referencing this action is: no-reference
+20/06/2017 21:28:21>Makia [268481738]>Party(id: 4042 count: 12 name: Enria objId: 268484007)>Knoriks>L2Object referencing this action is: Knoriks
+20/06/2017 21:28:39>Makia [268481738]>teleportto taglife>no-target>
+20/06/2017 21:29:07>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 38257500160)>Maluk Warlord>L2Object referencing this action is: TagLife
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39441481728)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 8)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39746560000)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 9628 count: 2 name: Leonard objId: 268484022)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 15660 count: 2 name: Sealed Vesper Helmet Piece objId: 268484023)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14178360320)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 24035579904)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 23780419584)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13548999680)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13593600000)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:09>Makia [268481738]>Party(id: 4040 objId: 268483999 name: Mold Lubricant count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:29:09>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:11>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39833460736)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:11>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39595778048)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39389159424)>Maluk Warlord>L2Object referencing this action is: TagLife
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39381700608)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 37960839168)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:12>Makia [268481738]>Party(id: 15691 count: 2 name: Sealed Vesper Sigil Piece objId: 268484026)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:12>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:14>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13976120320)>Maluk Leader>L2Object referencing this action is: TagLife
+20/06/2017 21:29:14>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 42238799872)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:29:14>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Leader
+20/06/2017 21:29:14>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Leader>L2Object referencing this action is: no-reference
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 41949298688)>Maluk Leader>L2Object referencing this action is: TagLife
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39878459392)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 1890 count: 2 name: Mithril Alloy objId: 268484029)>Maluk Leader>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 38963380224)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 15662 count: 2 name: Sealed Vesper Circlet Piece objId: 268484030)>Maluk Leader>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14894119936)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Leader>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14697539584)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 23473700864)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:29:16>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:29:16>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Leader>L2Object referencing this action is: no-reference
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 23949139968)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 9549 objId: 268483997 name: Wind Stone count: 2)>Maluk Princess>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 23558240256)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 4)>Maluk Princess>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40220659712)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Princess>L2Object referencing this action is: Maluk Leader
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 42902200320)>Maluk Princess>L2Object referencing this action is: Makia
+20/06/2017 21:29:18>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Princess>L2Object referencing this action is: Dragon Knight
+20/06/2017 21:29:18>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Princess>L2Object referencing this action is: no-reference
+20/06/2017 21:29:22>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40749678592)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:22>Makia [268481738]>Party(id: 1888 objId: 268483996 name: Synthetic Cokes count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:22>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:32>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 43841339392)>Dragon Knight>L2Object referencing this action is: Makia
+20/06/2017 21:29:32>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 4)>Dragon Knight>L2Object referencing this action is: Dragon Knight
+20/06/2017 21:29:32>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 25184940032)>Dragon Knight>L2Object referencing this action is: Makia
+20/06/2017 21:29:32>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 2)>Dragon Knight>L2Object referencing this action is: Maluk Princess
+20/06/2017 21:29:32>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13713359872)>Dragon Knight>L2Object referencing this action is: Makia
+20/06/2017 21:29:32>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Dragon Knight>L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:29:32>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Dragon Knight>L2Object referencing this action is: no-reference
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13565599744)>Maluk Sniper >L2Object referencing this action is: Makia
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 4040 objId: 268483999 name: Mold Lubricant count: 2)>Maluk Sniper >L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 78389239808)>Maluk Sniper >L2Object referencing this action is: Makia
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 5550 objId: 268484004 name: Durable Metal Plate count: 2)>Maluk Sniper >L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 15660 objId: 268484023 name: Sealed Vesper Helmet Piece count: 2)>Maluk Sniper >L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 28269000704)>Maluk Sniper >L2Object referencing this action is: Makia
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Sniper >L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13943780352)>Maluk Sniper >L2Object referencing this action is: Makia
+20/06/2017 21:29:33>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Sniper >L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:29:33>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Sniper >L2Object referencing this action is: no-reference
+20/06/2017 21:29:35>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40235700224)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:35>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:35>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 80803479552)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:35>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:35>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13614440448)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:35>Makia [268481738]>Party(id: 14167 count: 2 name: Mid-Grade Life Stone - Level 84 objId: 268484046)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:36>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:37>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 29536180224)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:37>Makia [268481738]>Party(id: 9630 count: 2 name: Orichalcum objId: 268484047)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:37>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 28747800576)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:37>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:38>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:39>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 81864900608)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:39>Makia [268481738]>Party(id: 1888 objId: 268483996 name: Synthetic Cokes count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:39>Makia [268481738]>Party(id: 15661 objId: 268483998 name: Sealed Vesper Leather Helmet Piece count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:39>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39349858304)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39957200896)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 6)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 15000099840)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:40>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 14717440000)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:41>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:41>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 28562300928)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 49244319744)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 9630 objId: 268484047 name: Orichalcum count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Banshee
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 28626239488)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Hunter>L2Object referencing this action is: Maluk Sniper 
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 77583802368)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 1888 objId: 268483996 name: Synthetic Cokes count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 79756099584)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 9628 objId: 268484022 name: Leonard count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 48687558656)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Hunter>L2Object referencing this action is: Maluk Banshee
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 77646323712)>Maluk Hunter>L2Object referencing this action is: Makia
+20/06/2017 21:29:44>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Hunter>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:45>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Hunter>L2Object referencing this action is: no-reference
+20/06/2017 21:29:46>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 28026839040)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:46>Makia [268481738]>Party(id: 1895 objId: 268484001 name: Metallic Fiber count: 4)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:46>Makia [268481738]>Party(id: 15668 count: 2 name: Sealed Vesper Boots Piece objId: 268484048)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 42593579008)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Warlord>L2Object referencing this action is: Dragon Knight
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 15635 count: 2 name: Vesper Slasher Piece objId: 268484049)>Maluk Warlord>L2Object referencing this action is: Dragon Knight
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 79490777088)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 9628 objId: 268484022 name: Leonard count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 81362460672)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 9630 objId: 268484047 name: Orichalcum count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 15660 objId: 268484023 name: Sealed Vesper Helmet Piece count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 39782141952)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 9629 objId: 268483990 name: Adamantine count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40910979072)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:47>Makia [268481738]>Party(id: 1888 objId: 268483996 name: Synthetic Cokes count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:47>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 42632962048)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 5550 objId: 268484004 name: Durable Metal Plate count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 15669 objId: 268483994 name: Sealed Vesper Verteidiger Piece count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 13755440128)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 4040 objId: 268483999 name: Mold Lubricant count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 42987679744)>Maluk Warlord>L2Object referencing this action is: TagLife
+20/06/2017 21:29:50>Makia [268481738]>Party(id: 15671 count: 2 name: Sealed Vesper Leather Gloves Piece objId: 268484051)>Maluk Warlord>L2Object referencing this action is: Maluk Hunter
+20/06/2017 21:29:50>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:29:51>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 59177201664)>Elite Dragon Knight>L2Object referencing this action is: Makia
+20/06/2017 21:29:51>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Elite Dragon Knight>L2Object referencing this action is: no-reference
+20/06/2017 21:29:51>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 14)>Elite Dragon Knight>L2Object referencing this action is: Elite Dragon Knight
+20/06/2017 21:30:02>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 321081212928)>Knoriks>L2Object referencing this action is: Makia
+20/06/2017 21:30:02>Makia [268481738]>Party(id: 4040 objId: 268483999 name: Mold Lubricant count: 8)>Knoriks>L2Object referencing this action is: Knoriks
+20/06/2017 21:30:02>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 75905441792)>Knoriks>L2Object referencing this action is: Makia
+20/06/2017 21:30:02>Makia [268481738]>Party(id: 9630 objId: 268484047 name: Orichalcum count: 2)>Knoriks>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:30:02>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Knoriks>L2Object referencing this action is: no-reference
+20/06/2017 21:30:07>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 41583161344)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:30:07>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Leader
+20/06/2017 21:30:07>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 38761861120)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:30:07>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:30:07>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40668278784)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:30:07>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Leader
+20/06/2017 21:30:07>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Leader>L2Object referencing this action is: no-reference
+20/06/2017 21:30:08>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 40000139264)>Maluk Leader>L2Object referencing this action is: Makia
+20/06/2017 21:30:08>Makia [268481738]>Party(id: 9628 objId: 268484022 name: Leonard count: 2)>Maluk Leader>L2Object referencing this action is: Maluk Leader
+20/06/2017 21:30:09>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Leader>L2Object referencing this action is: no-reference
+20/06/2017 21:30:10>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 76956319744)>Maluk Warlord>L2Object referencing this action is: Makia
+20/06/2017 21:30:10>Makia [268481738]>Party(id: 14166 objId: 268484000 name: Life Stone - Level 84 count: 2)>Maluk Warlord>L2Object referencing this action is: Maluk Warlord
+20/06/2017 21:30:10>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Maluk Warlord>L2Object referencing this action is: no-reference
+20/06/2017 21:30:16>Makia [268481738]>Community Teleport(id: 57 objId: 268481631 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 21:30:19>Makia [268481738]>Community Teleport(id: 57 objId: 268481631 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 21:31:38>Makia [268481738]>recall taglife>Makia>
+20/06/2017 21:32:58>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 48358461440)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:32:58>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 2)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:32:58>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:32:59>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 44503560192)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:32:59>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:32:59>Makia [268481738]>Party(id: 9547 count: 2 name: Water Stone objId: 268484160)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:33:00>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 44658900992)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:33:00>Makia [268481738]>Party(id: 1885 objId: 268483988 name: High-Grade Suede count: 2)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:33:00>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 45077139456)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:33:00>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 6)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:33:01>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 45079060480)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:33:01>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 6)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:33:01>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 43896741888)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:33:01>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 4)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:33:01>Makia [268481738]>Party(id: 57 objId: 268481631 name: Adena count: 44609101824)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:33:01>Makia [268481738]>Party(id: 9547 objId: 268484160 name: Water Stone count: 2)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:33:01>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:33:12>Makia [268481738]>Drop(id: 57 objId: 268481631 name: Adena count: -1000)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:33:12>Makia [268481738]>Drop(id: 57 count: 1000 name: Adena objId: 268484162)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:33:12>Makia [268481738]>Drop>Lucky Pig>(id: 57 name: Adena objId: 268484162 x: 125907 y: 115231 z: -3727)
+20/06/2017 21:33:20>Makia [268481738]>Drop(id: 57 objId: 268481631 name: Adena count: -99899900000)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:33:20>Makia [268481738]>Drop(id: 57 count: 99899900000 name: Adena objId: 268484163)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:33:20>Makia [268481738]>Drop>Lucky Pig>(id: 57 name: Adena objId: 268484163 x: 125907 y: 115231 z: -3727)
+20/06/2017 21:33:35>Makia [268481738]>Drop(id: 57 name: Adena)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:33:35>Makia [268481738]>Drop>Lucky Pig>(id: 57 name: Adena objId: 268481631 x: 125907 y: 115231 z: -3727)
+20/06/2017 21:33:53>Makia [268481738]>Drop(id: 4040 objId: 268483999 name: Mold Lubricant count: -1)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:33:53>Makia [268481738]>Drop(id: 4040 count: 1 name: Mold Lubricant objId: 268484165)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:33:53>Makia [268481738]>Drop>Parasitic Leech>(id: 4040 name: Mold Lubricant objId: 268484165 x: 125907 y: 115231 z: -3727)
+20/06/2017 21:34:05>Makia [268481738]>Party(id: 57 count: 22050859008 name: Adena objId: 268484166)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:34:08>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:08>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:09>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:09>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:09>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:10>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:10>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:10>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:11>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:11>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:11>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:12>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:12>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:12>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:13>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:13>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:13>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:13>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:14>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:14>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:14>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:15>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:15>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:15>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:16>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:16>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:16>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:17>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:17>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:17>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:18>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:18>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:18>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:19>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:19>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:19>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:20>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:20>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:20>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:20>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:21>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:21>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:21>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:22>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:22>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:22>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:23>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:23>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:23>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:24>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:24>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:24>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:25>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:25>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:25>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:27>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 21256620032)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:34:29>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:29>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:29>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:29>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22574260224)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:34:31>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:31>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:32>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:32>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:32>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:33>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:33>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:33>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:34>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:34>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:34>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:35>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:35>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:35>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:36>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:37>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:37>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:38>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:41>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:41>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:41>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:42>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:42>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:42>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:43>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:43>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:43>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:44>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:46>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:46>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:47>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:47>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:47>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:47>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:47>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:48>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:48>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:49>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:49>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:49>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:50>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:50>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:50>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:53>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:53>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:53>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:54>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:54>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:55>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:55>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:55>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:55>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:56>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:56>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22424700928)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:34:56>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:56>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:57>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:57>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:57>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:58>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 23225319424)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:34:58>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:58>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:58>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:58>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:59>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:34:59>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22647920640)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:35:00>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:00>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:00>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:00>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:01>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:01>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22677540864)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:35:01>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:01>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:01>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:02>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:02>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:03>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:03>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:03>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22053599232)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:35:03>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:03>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:04>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:04>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:05>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:05>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:05>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:05>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:06>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:06>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:06>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:07>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:07>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:07>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Lucky Pig>L2Object referencing this action is: no-reference
+20/06/2017 21:35:11>Makia [268481738]>Party(id: 4040 objId: 268483999 name: Mold Lubricant count: 1)>Lucky Pig>L2Object referencing this action is: Makia
+20/06/2017 21:35:11>Makia [268481738]>Party(id: 4040 count: 0 itemObjId: 268484165)>Lucky Pig>L2Object referencing this action is: Makia
+20/06/2017 21:35:19>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22042220544)>Lucky Pig>L2Object referencing this action is: TagLife
+20/06/2017 21:35:37>Makia [268481738]>delete>Lucky Pig>
+20/06/2017 21:35:38>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22236499968)>no-target>L2Object referencing this action is: TagLife
+20/06/2017 21:35:41>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 21854660608)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:35:41>Makia [268481738]>Party(id: 10483 count: 2 name: Life Stone - Level 82 objId: 268484200)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:35:41>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:35:43>Makia [268481738]>Party(id: 57 objId: 268484166 name: Adena count: 22316500992)>Parasitic Leech>L2Object referencing this action is: Makia
+20/06/2017 21:35:43>Makia [268481738]>Party(id: 1879 objId: 268483989 name: Cokes count: 2)>Parasitic Leech>L2Object referencing this action is: Parasitic Leech
+20/06/2017 21:35:43>Makia [268481738]>null(id: 1467 objId: 268483984 name: Soulshot (S-Grade) count: -1)>Parasitic Leech>L2Object referencing this action is: no-reference
+20/06/2017 21:37:59>Makia [268481738]>admin>no-target>
+20/06/2017 22:21:27>Makia [268481738]>admin>no-target>
+20/06/2017 22:21:30>Makia [268481738]>admin_admin2>no-target>
+20/06/2017 22:21:34>Makia [268481738]>admin_admin7>no-target>
+20/06/2017 22:21:39>Makia [268481738]>admin_admin4>no-target>
+20/06/2017 22:22:18>Makia [268481738]>admin>Makia>
+20/06/2017 22:22:25>Makia [268481738]>admin_admin2>Makia>
+20/06/2017 22:37:43>Makia [268481738]>gmspeed 0>Makia>
+20/06/2017 22:38:11>Makia [268481738]>Scheme system(id: 57 objId: 268484166 name: Adena count: -4500)>Makia>L2Object referencing this action is: Makia
+20/06/2017 22:39:00>Makia [268481738]>gmspeed 2>Makia>
+20/06/2017 22:41:11>Makia [268481738]>Community Teleport(id: 57 objId: 268484166 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 22:41:45>Makia [268481738]>teleportto taglife>no-target>
+20/06/2017 22:42:09>Makia [268481738]>admin>no-target>
+20/06/2017 22:42:11>Makia [268481738]>admin_admin2>no-target>
+20/06/2017 22:42:12>Makia [268481738]>admin_admin7>no-target>
+20/06/2017 22:42:16>Makia [268481738]>admin_ride_wyvern>no-target>
+20/06/2017 22:42:30>Makia [268481738]>recall taglife>no-target>
+20/06/2017 22:43:23>Makia [268481738]>Community Teleport(id: 57 objId: 268484166 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 22:47:36>Makia [268481738]>kill>TagLife>
+20/06/2017 22:47:41>Makia [268481738]>kill>TagLife>
+20/06/2017 22:47:47>Makia [268481738]>kill>TagLife>
+20/06/2017 22:47:56>Makia [268481738]>Community Teleport(id: 57 objId: 268484166 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 22:48:29>Makia [268481738]>delete>Sagittarius>
+20/06/2017 22:48:32>Makia [268481738]>delete>Soultaker>
+20/06/2017 22:48:35>Makia [268481738]>delete>Duelist>
+20/06/2017 23:08:43>Makia [268481738]>visible>All In One>
+20/06/2017 23:09:02>Makia [268481738]>L2ItemInstance(id: 20712 count: 0 itemObjId: 268483366)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 23:09:02>Makia [268481738]>L2ItemInstance(id: 20716 count: 0 itemObjId: 268483367)>Makia>L2Object referencing this action is: no-reference
+20/06/2017 23:09:50>Makia [268481738]>Champion(id: 9142 count: 5 name: Apiga objId: 268481964)>All In One>L2Object referencing this action is: Makia
+20/06/2017 23:17:44>Makia [268481738]>enchant>Makia>
+20/06/2017 23:17:46>Makia [268481738]>admin_setew 1>Makia>
+20/06/2017 23:17:48>Makia [268481738]>admin_setew 2>Makia>
+20/06/2017 23:17:49>Makia [268481738]>admin_setew 3>Makia>
+20/06/2017 23:17:49>Makia [268481738]>admin_setew 4>Makia>
+20/06/2017 23:17:50>Makia [268481738]>admin_setew 5>Makia>
+20/06/2017 23:17:51>Makia [268481738]>admin_setew 6>Makia>
+20/06/2017 23:17:52>Makia [268481738]>admin_setew 7>Makia>
+20/06/2017 23:17:52>Makia [268481738]>admin_setew 8>Makia>
+20/06/2017 23:17:53>Makia [268481738]>admin_setew 9>Makia>
+20/06/2017 23:17:54>Makia [268481738]>admin_setew 0>Makia>
+20/06/2017 23:17:56>Makia [268481738]>admin_setew 10>Makia>
+20/06/2017 23:27:57>Makia [268481738]>admin>Makia>
+20/06/2017 23:27:58>Makia [268481738]>admin_admin2>Makia>
+20/06/2017 23:28:07>Makia [268481738]>admin_admin2>Makia>
+20/06/2017 23:28:11>Makia [268481738]>admin_admin7>Makia>
+20/06/2017 23:28:14>Makia [268481738]>admin_admin4>Makia>
+20/06/2017 23:28:46>Makia [268481738]>admin_stats>Makia>
+20/06/2017 23:29:09>Makia [268481738]>admin>Makia>
+20/06/2017 23:29:11>Makia [268481738]>admin_admin7>Makia>
+20/06/2017 23:29:13>Makia [268481738]>admin_admin4>Makia>
+20/06/2017 23:29:17>Makia [268481738]>admin_server_shutdown>Makia>
+20/06/2017 23:29:29>Makia [268481738]>admin_server_restart 10>Makia>
+20/06/2017 23:34:00>Makia [268481738]>Community Teleport(id: 57 objId: 268484166 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia
+20/06/2017 23:34:47>Makia [268481738]>Community Teleport(id: 57 objId: 268484166 name: Adena count: -1000)>no-target>L2Object referencing this action is: Makia

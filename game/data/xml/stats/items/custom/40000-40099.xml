@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+	<item id="40000" type="EtcItem" name="Donation Coin">
+		<set name="icon" val="Icons_By_AllInOne.45" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="40001" type="EtcItem" name="AiO Gemstone">
+		<set name="icon" val="MegaIconsByAllInOne_V7.icon_item_enhanced_stigma03_ba_songofbless_g1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="handler" val="AioItemBuff" />
+	</item>
+	<item id="40002" type="EtcItem" name="Gold Adena">
+		<set name="icon" val="IconsByAllInOne.21" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="40003" type="EtcItem" name="AiOWater Stone">
+		<set name="icon" val="MegaIconsByAllInOne_V7.icon_item_enhanced_stigma03_el_enchantarmor_g1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="3" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="40004" type="EtcItem" name="AiOWind Stone">
+		<set name="icon" val="MegaIconsByAllInOne_V7.icon_item_enhanced_stigma03_pr_healershand_g1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="5" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="40005" type="EtcItem" name="AiOFire Stone">
+		<set name="icon" val="MegaIconsByAllInOne_V7.icon_item_enhanced_stigma02_wi_flamestrike_g1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="10" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="40006" type="EtcItem" name="Vote Coin">
+		<set name="icon" val="VipCoinsByAllInOne.vip1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

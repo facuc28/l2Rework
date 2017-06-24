@@ -1,0 +1,124 @@
+[20.06.17 18:16:58] WARN:LoginServer not available, trying to reconnect...
+[20.06.17 18:17:04] WARN:LoginServer not available, trying to reconnect...
+[20.06.17 18:17:10] WARN:LoginServer not available, trying to reconnect...
+[20.06.17 18:17:16] WARN:LoginServer not available, trying to reconnect...
+[20.06.17 18:17:22] WARN:LoginServer not available, trying to reconnect...
+[20.06.17 18:46:04] WARN:LoginServer not available, trying to reconnect...
+[20.06.17 18:54:09] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: Makai
+[20.06.17 18:54:12] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: Makai
+[20.06.17 19:06:58] WARN:General GM access level set for character Makai
+[20.06.17 19:08:12] WARN:Event GM access level set for character Makai
+[20.06.17 19:09:25] WARN:User access level set for character Makai
+[20.06.17 19:22:51] WARN:General GM access level set for character TagLife
+[20.06.17 19:30:18] WARN:General GM access level set for character TagLife
+[20.06.17 19:31:56] WARN:General GM access level set for character TagLife
+[20.06.17 19:47:56] WARN:Admin access level set for character TagLife
+[20.06.17 19:48:38] WARN:No handler registered for admin command 'admin_hero'
+[20.06.17 19:48:43] WARN:No handler registered for admin command 'admin_hero'
+[20.06.17 19:51:44] WARN:Admin access level set for character TagLife
+[20.06.17 19:58:14] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: TagLife
+[20.06.17 20:18:49] WARN:Admin access level set for character TagLife
+[20.06.17 20:50:26] WARN:No handler registered for admin command 'admin_acceslevel'
+[20.06.17 20:50:47] WARN:No handler registered for admin command 'admin_access_level'
+[20.06.17 20:55:10] WARN:Admin access level set for character Makai
+[20.06.17 20:56:11] WARN:Admin access level set for character Makia
+[20.06.17 20:59:16] WARN:No handler registered for admin command 'admin_respawn'
+[20.06.17 21:00:04] WARN:No handler registered for admin command 'admin_clearpk'
+[20.06.17 21:00:10] WARN:No handler registered for admin command 'admin_command'
+[20.06.17 21:00:12] WARN:No handler registered for admin command 'admin_help'
+[20.06.17 21:00:27] WARN:Character TagLife tried to use admin command admin_real_onlines, without proper access level!
+[20.06.17 21:10:03] WARN:No handler registered for admin command 'admin_setlevel'
+[20.06.17 21:12:59] WARN:No handler registered for admin command 'admin_gmshoo'
+[20.06.17 21:13:41] WARN:No handler registered for admin command 'admin_accesslevel'
+[20.06.17 21:13:56] WARN:Admin access level set for character TagLife
+[20.06.17 21:14:15] WARN:No handler registered for admin command 'admin_gmshoop'
+[20.06.17 21:17:48] WARN:Character Makia tryed to use admin command admin_jail, but have no access to it!
+[20.06.17 21:19:32] WARN:Admin access level set for character TagLife
+[20.06.17 21:20:02] WARN:Character Makia tried to use admin command admin_jail, without proper access level!
+[20.06.17 21:20:17] WARN:Character Makia tried to use admin command admin_jail, without proper access level!
+[20.06.17 21:20:20] WARN:Character Makia tryed to use admin command admin_jail, but have no access to it!
+[20.06.17 21:20:21] WARN:Character TagLife tryed to use admin command admin_jail, but have no access to it!
+[20.06.17 21:23:22] WARN:Character TagLife tryed to use admin command admin_jail, but have no access to it!
+[20.06.17 21:23:34] WARN:Master access level set for character TagLife
+[20.06.17 21:31:39] WARN:No handler registered for admin command 'admin_trace'
+[20.06.17 22:22:29] WARN:GM: TagLife(268481956) issued shutdown command. restarting in 1 seconds!
+[20.06.17 22:22:30] WARN:GM shutdown countdown is over. restarting NOW!
+[20.06.17 22:22:53] ERROR:Failed to load geodata driver!
+java.io.FileNotFoundException: config\main\Geodata.ini (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at l2r.gameserver.GeoData.<init>(GeoData.java:68)
+	at l2r.gameserver.GeoData$SingletonHolder.<clinit>(GeoData.java:679)
+	at l2r.gameserver.GeoData.getInstance(GeoData.java:674)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:206)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.06.17 22:24:21] WARN:
+java.nio.file.NoSuchFileException: E:\CarpetasCompartidasVPS\L2JWZ\game\data\pathnode\pn_index.txt
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+	at java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
+	at java.nio.file.Files.newInputStream(Unknown Source)
+	at java.nio.file.Files.newBufferedReader(Unknown Source)
+	at java.nio.file.Files.lines(Unknown Source)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding.<init>(GeoPathFinding.java:403)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding$SingletonHolder.<clinit>(GeoPathFinding.java:478)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding.getInstance(GeoPathFinding.java:61)
+	at l2r.gameserver.pathfinding.PathFinding.getInstance(PathFinding.java:38)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:210)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.06.17 22:25:20] WARN:
+java.nio.file.NoSuchFileException: E:\CarpetasCompartidasVPS\L2JWZ\game\data\pathnode\pn_index.txt
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+	at java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
+	at java.nio.file.Files.newInputStream(Unknown Source)
+	at java.nio.file.Files.newBufferedReader(Unknown Source)
+	at java.nio.file.Files.lines(Unknown Source)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding.<init>(GeoPathFinding.java:403)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding$SingletonHolder.<clinit>(GeoPathFinding.java:478)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding.getInstance(GeoPathFinding.java:61)
+	at l2r.gameserver.pathfinding.PathFinding.getInstance(PathFinding.java:38)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:210)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.06.17 22:35:01] WARN:
+java.nio.file.NoSuchFileException: E:\CarpetasCompartidasVPS\L2JWZ\game\data\pathnode\pn_index.txt
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+	at java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
+	at java.nio.file.Files.newInputStream(Unknown Source)
+	at java.nio.file.Files.newBufferedReader(Unknown Source)
+	at java.nio.file.Files.lines(Unknown Source)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding.<init>(GeoPathFinding.java:403)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding$SingletonHolder.<clinit>(GeoPathFinding.java:478)
+	at l2r.gameserver.pathfinding.geonodes.GeoPathFinding.getInstance(GeoPathFinding.java:61)
+	at l2r.gameserver.pathfinding.PathFinding.getInstance(PathFinding.java:38)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:210)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.06.17 22:37:27] WARN:Admin access level set for character Makia
+[20.06.17 22:37:39] WARN:Master access level set for character TagLife
+[20.06.17 22:42:00] WARN:No handler registered for admin command 'admin_fly'
+[20.06.17 22:42:02] WARN:No handler registered for admin command 'admin_wyvern'
+[20.06.17 22:42:10] WARN:No handler registered for admin command 'admin_superhaste'
+[20.06.17 23:17:23] WARN:Admin access level set for character Makia
+[20.06.17 23:28:20] WARN:No handler registered for admin command 'admin_restart'
+[20.06.17 23:28:26] WARN:No handler registered for admin command 'admin_restart'
+[20.06.17 23:28:56] WARN:No handler registered for admin command 'admin_restart'
+[20.06.17 23:29:02] WARN:No handler registered for admin command 'admin_down'
+[20.06.17 23:29:07] WARN:No handler registered for admin command 'admin_shutdown'
+[20.06.17 23:29:29] WARN:GM: Makia(268481738) issued shutdown command. restarting in 10 seconds!
+[20.06.17 23:29:39] WARN:GM shutdown countdown is over. restarting NOW!
+[20.06.17 23:33:24] WARN:Admin access level set for character Makia

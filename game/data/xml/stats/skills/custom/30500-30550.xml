@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/skills.xsd">
+	<skill id="30500" levels="1" name="Donate Potion" >
+		<!-- Confirmed CT2.5 -->
+		<set name="icon" val="MegaIconsByAllInOne_V6.wi_fireshield_g1" />
+		<set name="itemConsumeId" val="30000" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="abnormalLvl" val="85" />
+		<set name="abnormalTime" val="3600" />
+		<set name="abnormalType" val="vp_up" />
+		<set name="aggroPoints" val="100" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="operateType" val="A2" />
+		<set name="reuseDelay" val="10" />
+		<set name="skillType" val="BUFF" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="Buff" abnormalTime="3600" val="0" abnormalLvl="26" abnormalType="vp_up" abnormalVisualEffect="vitality">
+				<sub stat="vitalityConsumeRate" val="10" />
+				<mul stat="mAtk" val="1.15" />
+				<mul stat="pAtk" val="2.30" />
+				<mul stat="pDef" val="0.99" />
+				<mul stat="mDef" val="1.2" />
+				<mul stat="mAtkSpd" val="1.1" />
+				<mul stat="pAtkSpd" val="1.15" />
+				<add stat="runSpd" val="100" />
+				<sub stat="rEvas" val="4" />
+			</effect>
+		</for>
+	</skill>
+</list>

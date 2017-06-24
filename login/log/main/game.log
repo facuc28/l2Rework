@@ -1,0 +1,180 @@
+[23.02.16 10:14:49] INFO: Loading LoginController...
+[23.02.16 10:14:49] INFO: Cached 10 KeyPairs for RSA communication
+[23.02.16 10:14:49] INFO: Stored 20 keys for Blowfish communication
+[23.02.16 10:14:49] INFO: GameServerTable: Loaded 127 server names
+[23.02.16 10:14:50] INFO: GameServerTable: Loaded 1 registered Game Servers
+[23.02.16 10:14:50] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[23.02.16 10:14:50] INFO: Loaded 2 IP Bans.
+[23.02.16 10:14:50] INFO: Scheduled LS restart after 48 hours
+[23.02.16 10:14:50] INFO: Listening for GameServers on 127.0.0.1:9014
+[23.02.16 10:14:50] INFO: Telnet server is currently disabled.
+[23.02.16 10:14:50] INFO: L2LoginServer: is now listening on: *:2106
+[23.02.16 10:14:50] INFO: Looking for UPnP Gateway Devices...
+[23.02.16 10:14:50] INFO: Using UPnP gateway: Wireless Router
+[23.02.16 10:14:50] INFO: Using local address: 192.168.100.5 External address: 192.168.1.65
+[23.02.16 10:14:50] INFO: Mapping successfull on [192.168.100.5:2106]
+[23.02.16 10:15:35] INFO: Updated Gameserver [1] Bartz IP's:
+[23.02.16 10:15:35] INFO: 127.0.0.1/127.0.0.0/8
+[23.02.16 10:15:35] INFO: 192.168.100.5/192.168.100.0/24
+[23.02.16 10:15:35] INFO: 179.185.140.156/0.0.0.0/0
+[23.02.16 10:16:49] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[23.02.16 10:16:49] INFO: Server [1] Bartz is now set as disconnected
+[20.06.17 18:17:23] INFO: Loading LoginController...
+[20.06.17 18:17:24] INFO: Cached 10 KeyPairs for RSA communication
+[20.06.17 18:17:24] INFO: Stored 20 keys for Blowfish communication
+[20.06.17 18:17:24] INFO: GameServerTable: Loaded 127 server names
+[20.06.17 18:17:24] INFO: GameServerTable: Loaded 1 registered Game Servers
+[20.06.17 18:17:24] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[20.06.17 18:17:24] INFO: Loaded 2 IP Bans.
+[20.06.17 18:17:24] INFO: Scheduled LS restart after 48 hours
+[20.06.17 18:17:24] INFO: Listening for GameServers on 127.0.0.1:9014
+[20.06.17 18:17:24] INFO: Telnet server is currently disabled.
+[20.06.17 18:17:24] INFO: L2LoginServer: is now listening on: *:2106
+[20.06.17 18:17:24] INFO: Looking for UPnP Gateway Devices...
+[20.06.17 18:17:27] INFO: Updated Gameserver [1] Bartz IP's:
+[20.06.17 18:17:27] INFO: 127.0.0.1/127.0.0.0/8
+[20.06.17 18:17:27] INFO: 192.168.0.100/192.168.0.0/24
+[20.06.17 18:17:27] INFO: 192.168.56.1/192.168.56.0/24
+[20.06.17 18:17:27] INFO: 181.31.123.207/0.0.0.0/0
+[20.06.17 18:17:28] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[20.06.17 18:17:28] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[20.06.17 18:17:28] INFO: Mapping successfull on [192.168.0.100:2106]
+[20.06.17 18:36:59] INFO: Auto created account 'hernan'.
+[20.06.17 18:46:04] INFO: Loading LoginController...
+[20.06.17 18:46:04] INFO: Cached 10 KeyPairs for RSA communication
+[20.06.17 18:46:05] INFO: Stored 20 keys for Blowfish communication
+[20.06.17 18:46:05] INFO: GameServerTable: Loaded 127 server names
+[20.06.17 18:46:05] INFO: GameServerTable: Loaded 1 registered Game Servers
+[20.06.17 18:46:05] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[20.06.17 18:46:05] INFO: Loaded 2 IP Bans.
+[20.06.17 18:46:05] INFO: Scheduled LS restart after 48 hours
+[20.06.17 18:46:05] INFO: Listening for GameServers on 127.0.0.1:9014
+[20.06.17 18:46:05] INFO: Telnet server is currently disabled.
+[20.06.17 18:46:05] INFO: L2LoginServer: is now listening on: *:2106
+[20.06.17 18:46:05] INFO: Looking for UPnP Gateway Devices...
+[20.06.17 18:46:08] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[20.06.17 18:46:08] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[20.06.17 18:46:08] INFO: Mapping successfull on [192.168.0.100:2106]
+[20.06.17 18:46:09] INFO: Updated Gameserver [1] Bartz IP's:
+[20.06.17 18:46:09] INFO: 127.0.0.1/127.0.0.0/8
+[20.06.17 18:46:09] INFO: 192.168.0.100/192.168.0.0/24
+[20.06.17 18:46:09] INFO: 192.168.56.1/192.168.56.0/24
+[20.06.17 18:46:09] INFO: 181.31.123.207/0.0.0.0/0
+[20.06.17 19:21:15] INFO: Auto created account 'facu'.
+[20.06.17 19:27:15] INFO: Loading LoginController...
+[20.06.17 19:27:15] INFO: Cached 10 KeyPairs for RSA communication
+[20.06.17 19:27:16] INFO: Stored 20 keys for Blowfish communication
+[20.06.17 19:27:16] INFO: GameServerTable: Loaded 127 server names
+[20.06.17 19:27:16] INFO: GameServerTable: Loaded 1 registered Game Servers
+[20.06.17 19:27:16] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[20.06.17 19:27:16] INFO: Loaded 2 IP Bans.
+[20.06.17 19:27:16] INFO: Scheduled LS restart after 48 hours
+[20.06.17 19:27:16] INFO: Listening for GameServers on 127.0.0.1:9014
+[20.06.17 19:27:16] INFO: Telnet server is currently disabled.
+[20.06.17 19:27:16] INFO: L2LoginServer: is now listening on: *:2106
+[20.06.17 19:27:16] INFO: Looking for UPnP Gateway Devices...
+[20.06.17 19:27:19] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[20.06.17 19:27:19] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[20.06.17 19:27:20] INFO: Mapping successfull on [192.168.0.100:2106]
+[20.06.17 19:27:53] INFO: Updated Gameserver [1] Bartz IP's:
+[20.06.17 19:27:53] INFO: 127.0.0.1/127.0.0.0/8
+[20.06.17 19:27:53] INFO: 192.168.0.100/192.168.0.0/24
+[20.06.17 19:27:53] INFO: 192.168.56.1/192.168.56.0/24
+[20.06.17 19:27:53] INFO: 181.31.123.207/0.0.0.0/0
+[20.06.17 19:29:11] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[20.06.17 19:29:11] INFO: Server [1] Bartz is now set as disconnected
+[20.06.17 19:29:33] INFO: Loading LoginController...
+[20.06.17 19:29:34] INFO: Cached 10 KeyPairs for RSA communication
+[20.06.17 19:29:34] INFO: Stored 20 keys for Blowfish communication
+[20.06.17 19:29:34] INFO: GameServerTable: Loaded 127 server names
+[20.06.17 19:29:34] INFO: GameServerTable: Loaded 1 registered Game Servers
+[20.06.17 19:29:34] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[20.06.17 19:29:34] INFO: Loaded 2 IP Bans.
+[20.06.17 19:29:34] INFO: Scheduled LS restart after 48 hours
+[20.06.17 19:29:34] INFO: Listening for GameServers on 127.0.0.1:9014
+[20.06.17 19:29:34] INFO: Telnet server is currently disabled.
+[20.06.17 19:29:34] INFO: L2LoginServer: is now listening on: *:2106
+[20.06.17 19:29:34] INFO: Looking for UPnP Gateway Devices...
+[20.06.17 19:29:38] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[20.06.17 19:29:38] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[20.06.17 19:29:39] INFO: Mapping successfull on [192.168.0.100:2106]
+[20.06.17 19:30:02] INFO: Updated Gameserver [1] Bartz IP's:
+[20.06.17 19:30:02] INFO: 127.0.0.1/127.0.0.0/8
+[20.06.17 19:30:02] INFO: 192.168.0.100/192.168.0.0/24
+[20.06.17 19:30:02] INFO: 192.168.56.1/192.168.56.0/24
+[20.06.17 19:30:02] INFO: 181.31.123.207/0.0.0.0/0
+[20.06.17 22:36:11] INFO: Loading LoginController...
+[20.06.17 22:36:12] INFO: Cached 10 KeyPairs for RSA communication
+[20.06.17 22:36:12] INFO: Stored 20 keys for Blowfish communication
+[20.06.17 22:36:12] INFO: GameServerTable: Loaded 127 server names
+[20.06.17 22:36:13] INFO: GameServerTable: Loaded 1 registered Game Servers
+[20.06.17 22:36:13] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[20.06.17 22:36:13] INFO: Loaded 2 IP Bans.
+[20.06.17 22:36:13] INFO: Scheduled LS restart after 48 hours
+[20.06.17 22:36:13] INFO: Listening for GameServers on 127.0.0.1:9014
+[20.06.17 22:36:13] INFO: Telnet server is currently disabled.
+[20.06.17 22:36:13] INFO: L2LoginServer: is now listening on: *:2106
+[20.06.17 22:36:13] INFO: Looking for UPnP Gateway Devices...
+[20.06.17 22:36:16] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[20.06.17 22:36:16] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[20.06.17 22:36:16] INFO: Mapping successfull on [192.168.0.100:2106]
+[20.06.17 22:37:12] INFO: Updated Gameserver [1] Bartz IP's:
+[20.06.17 22:37:12] INFO: 127.0.0.1/127.0.0.0/8
+[20.06.17 22:37:12] INFO: 192.168.0.100/192.168.0.0/24
+[20.06.17 22:37:12] INFO: 192.168.56.1/192.168.56.0/24
+[20.06.17 22:37:12] INFO: 181.31.123.207/0.0.0.0/0
+[20.06.17 23:29:57] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[20.06.17 23:29:57] INFO: Server [1] Bartz is now set as disconnected
+[20.06.17 23:30:58] INFO: Updated Gameserver [1] Bartz IP's:
+[20.06.17 23:30:58] INFO: 127.0.0.1/127.0.0.0/8
+[20.06.17 23:30:58] INFO: 192.168.0.100/192.168.0.0/24
+[20.06.17 23:30:58] INFO: 192.168.56.1/192.168.56.0/24
+[20.06.17 23:30:58] INFO: 192.168.189.1/192.168.189.0/24
+[20.06.17 23:30:58] INFO: 192.168.40.1/192.168.40.0/24
+[20.06.17 23:30:58] INFO: 181.31.123.207/0.0.0.0/0
+[21.06.17 00:52:49] INFO: Loading LoginController...
+[21.06.17 00:52:52] INFO: Cached 10 KeyPairs for RSA communication
+[21.06.17 00:52:54] INFO: Stored 20 keys for Blowfish communication
+[21.06.17 00:52:55] INFO: GameServerTable: Loaded 127 server names
+[21.06.17 00:52:55] INFO: GameServerTable: Loaded 1 registered Game Servers
+[21.06.17 00:52:55] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[21.06.17 00:52:55] INFO: Loaded 2 IP Bans.
+[21.06.17 00:52:55] INFO: Scheduled LS restart after 48 hours
+[21.06.17 00:52:56] INFO: Listening for GameServers on 127.0.0.1:9014
+[21.06.17 00:52:56] INFO: Telnet server is currently disabled.
+[21.06.17 00:52:56] INFO: L2LoginServer: is now listening on: *:2106
+[21.06.17 00:52:56] INFO: Looking for UPnP Gateway Devices...
+[21.06.17 00:52:59] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[21.06.17 00:52:59] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[21.06.17 00:52:59] INFO: Mapping successfull on [192.168.0.100:2106]
+[21.06.17 00:54:02] INFO: Updated Gameserver [1] Bartz IP's:
+[21.06.17 00:54:02] INFO: 127.0.0.1/127.0.0.0/8
+[21.06.17 00:54:02] INFO: 192.168.40.1/192.168.40.0/24
+[21.06.17 00:54:02] INFO: 192.168.56.1/192.168.56.0/24
+[21.06.17 00:54:02] INFO: 192.168.0.100/192.168.0.0/24
+[21.06.17 00:54:02] INFO: 192.168.189.1/192.168.189.0/24
+[21.06.17 00:54:02] INFO: 181.31.123.207/0.0.0.0/0
+[21.06.17 08:59:18] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[21.06.17 08:59:18] INFO: Server [1] Bartz is now set as disconnected
+[21.06.17 08:59:28] INFO: Loading LoginController...
+[21.06.17 08:59:28] INFO: Cached 10 KeyPairs for RSA communication
+[21.06.17 08:59:29] INFO: Stored 20 keys for Blowfish communication
+[21.06.17 08:59:29] INFO: GameServerTable: Loaded 127 server names
+[21.06.17 08:59:29] INFO: GameServerTable: Loaded 1 registered Game Servers
+[21.06.17 08:59:29] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[21.06.17 08:59:29] INFO: Loaded 2 IP Bans.
+[21.06.17 08:59:29] INFO: Scheduled LS restart after 48 hours
+[21.06.17 08:59:29] INFO: Listening for GameServers on 127.0.0.1:9014
+[21.06.17 08:59:29] INFO: Telnet server is currently disabled.
+[21.06.17 08:59:29] INFO: L2LoginServer: is now listening on: *:2106
+[21.06.17 08:59:29] INFO: Looking for UPnP Gateway Devices...
+[21.06.17 08:59:33] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[21.06.17 08:59:33] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[21.06.17 08:59:33] INFO: Mapping successfull on [192.168.0.100:2106]
+[21.06.17 08:59:58] INFO: Updated Gameserver [1] Bartz IP's:
+[21.06.17 08:59:58] INFO: 127.0.0.1/127.0.0.0/8
+[21.06.17 08:59:58] INFO: 192.168.40.1/192.168.40.0/24
+[21.06.17 08:59:58] INFO: 192.168.56.1/192.168.56.0/24
+[21.06.17 08:59:58] INFO: 192.168.0.100/192.168.0.0/24
+[21.06.17 08:59:58] INFO: 192.168.189.1/192.168.189.0/24
+[21.06.17 08:59:58] INFO: 181.31.123.207/0.0.0.0/0

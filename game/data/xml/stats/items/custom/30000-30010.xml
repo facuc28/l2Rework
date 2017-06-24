@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+	<!--Special Item Potion-->
+	<item id="30000" type="EtcItem" name="Donate Potion">
+	<set name="icon" val="BranchSys.icon.br_vitality_potion_i00" />
+	<set name="default_action" val="SKILL_REDUCE" />
+	<set name="etcitem_type" val="POTION" />
+	<set name="material" val="LIQUID" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_destroyable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkills" />
+	<set name="is_oly_restricted" val="true" />
+	<set name="item_skill" val="30500-1" />
+	</item>
+</list>

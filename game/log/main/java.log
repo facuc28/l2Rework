@@ -1,0 +1,751 @@
+[21.06.17 08:59:22] INFO: Network Config: ipconfig.xml doesn't exists using automatic configuration...
+[21.06.17 08:59:23] INFO: Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[21.06.17 08:59:23] INFO: Network Config: Adding new subnet: 192.168.40.0/24 address: 192.168.40.1
+[21.06.17 08:59:23] INFO: Network Config: Adding new subnet: 192.168.56.0/24 address: 192.168.56.1
+[21.06.17 08:59:23] INFO: Network Config: Adding new subnet: 192.168.0.0/24 address: 192.168.0.100
+[21.06.17 08:59:23] INFO: Network Config: Adding new subnet: 192.168.189.0/24 address: 192.168.189.1
+[21.06.17 08:59:23] INFO: Network Config: Adding new subnet: 0.0.0.0/0 address: 181.31.123.207
+[21.06.17 08:59:23] INFO: Loaded 6 Filter Words.
+[21.06.17 08:59:23] INFO: Server Configs Loaded...
+[21.06.17 08:59:23] INFO: Updated characters online status.
+[21.06.17 08:59:23] INFO: Cleaned up invalid Weddings.
+[21.06.17 08:59:24] INFO: Cleaned 0 elements from database in 0 s
+[21.06.17 08:59:24] INFO: Cleaned 0 expired timestamps from database.
+[21.06.17 08:59:24] INFO: BitSetIDFactory: 102912 id's available.
+[21.06.17 08:59:24] INFO: -------------------------------------------------=[ Engines ]
+[21.06.17 08:59:25] INFO: Script Engine: jython 2.2.1 - Language: python - Language Version: 2.2.1
+[21.06.17 08:59:25] INFO: Script Engine: Oracle Nashorn 1.8.0_131 - Language: ECMAScript - Language Version: ECMA - 262 Edition 5.1
+[21.06.17 08:59:25] INFO: Script Engine: java 1.8 - Language: java - Language Version: 1.8
+[21.06.17 08:59:25] INFO: -------------------------------------------------=[ Geodata ]
+[21.06.17 08:59:27] INFO: Path Engine: - Loading Path Nodes...
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 11_23.pn -> region offset: 375 X: 11 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 11_24.pn -> region offset: 376 X: 11 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 11_25.pn -> region offset: 377 X: 11 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 11_26.pn -> region offset: 378 X: 11 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 12_23.pn -> region offset: 407 X: 12 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 12_24.pn -> region offset: 408 X: 12 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 12_25.pn -> region offset: 409 X: 12 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 12_26.pn -> region offset: 410 X: 12 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 13_21.pn -> region offset: 437 X: 13 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 13_22.pn -> region offset: 438 X: 13 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 13_23.pn -> region offset: 439 X: 13 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 13_24.pn -> region offset: 440 X: 13 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 13_25.pn -> region offset: 441 X: 13 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 13_26.pn -> region offset: 442 X: 13 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 14_21.pn -> region offset: 469 X: 14 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 14_22.pn -> region offset: 470 X: 14 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 14_23.pn -> region offset: 471 X: 14 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 14_24.pn -> region offset: 472 X: 14 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 14_25.pn -> region offset: 473 X: 14 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 14_26.pn -> region offset: 474 X: 14 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_10.pn -> region offset: 490 X: 15 Y: 10
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_11.pn -> region offset: 491 X: 15 Y: 11
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_12.pn -> region offset: 492 X: 15 Y: 12
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_18.pn -> region offset: 498 X: 15 Y: 18
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_19.pn -> region offset: 499 X: 15 Y: 19
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_20.pn -> region offset: 500 X: 15 Y: 20
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_21.pn -> region offset: 501 X: 15 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_22.pn -> region offset: 502 X: 15 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_23.pn -> region offset: 503 X: 15 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_24.pn -> region offset: 504 X: 15 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_25.pn -> region offset: 505 X: 15 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 15_26.pn -> region offset: 506 X: 15 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_10.pn -> region offset: 522 X: 16 Y: 10
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_11.pn -> region offset: 523 X: 16 Y: 11
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_12.pn -> region offset: 524 X: 16 Y: 12
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_13.pn -> region offset: 525 X: 16 Y: 13
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_14.pn -> region offset: 526 X: 16 Y: 14
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_15.pn -> region offset: 527 X: 16 Y: 15
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_16.pn -> region offset: 528 X: 16 Y: 16
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_17.pn -> region offset: 529 X: 16 Y: 17
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_18.pn -> region offset: 530 X: 16 Y: 18
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_19.pn -> region offset: 531 X: 16 Y: 19
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_20.pn -> region offset: 532 X: 16 Y: 20
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_21.pn -> region offset: 533 X: 16 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_22.pn -> region offset: 534 X: 16 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_23.pn -> region offset: 535 X: 16 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_24.pn -> region offset: 536 X: 16 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_25.pn -> region offset: 537 X: 16 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 16_26.pn -> region offset: 538 X: 16 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_10.pn -> region offset: 554 X: 17 Y: 10
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_11.pn -> region offset: 555 X: 17 Y: 11
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_12.pn -> region offset: 556 X: 17 Y: 12
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_13.pn -> region offset: 557 X: 17 Y: 13
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_14.pn -> region offset: 558 X: 17 Y: 14
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_15.pn -> region offset: 559 X: 17 Y: 15
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_16.pn -> region offset: 560 X: 17 Y: 16
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_17.pn -> region offset: 561 X: 17 Y: 17
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_18.pn -> region offset: 562 X: 17 Y: 18
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_19.pn -> region offset: 563 X: 17 Y: 19
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_20.pn -> region offset: 564 X: 17 Y: 20
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_21.pn -> region offset: 565 X: 17 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_22.pn -> region offset: 566 X: 17 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_23.pn -> region offset: 567 X: 17 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_24.pn -> region offset: 568 X: 17 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_25.pn -> region offset: 569 X: 17 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 17_26.pn -> region offset: 570 X: 17 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_10.pn -> region offset: 586 X: 18 Y: 10
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_11.pn -> region offset: 587 X: 18 Y: 11
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_12.pn -> region offset: 588 X: 18 Y: 12
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_13.pn -> region offset: 589 X: 18 Y: 13
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_14.pn -> region offset: 590 X: 18 Y: 14
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_15.pn -> region offset: 591 X: 18 Y: 15
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_16.pn -> region offset: 592 X: 18 Y: 16
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_17.pn -> region offset: 593 X: 18 Y: 17
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_18.pn -> region offset: 594 X: 18 Y: 18
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_19.pn -> region offset: 595 X: 18 Y: 19
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_20.pn -> region offset: 596 X: 18 Y: 20
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_21.pn -> region offset: 597 X: 18 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_22.pn -> region offset: 598 X: 18 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_23.pn -> region offset: 599 X: 18 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_24.pn -> region offset: 600 X: 18 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_25.pn -> region offset: 601 X: 18 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 18_26.pn -> region offset: 602 X: 18 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_10.pn -> region offset: 618 X: 19 Y: 10
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_11.pn -> region offset: 619 X: 19 Y: 11
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_12.pn -> region offset: 620 X: 19 Y: 12
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_13.pn -> region offset: 621 X: 19 Y: 13
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_14.pn -> region offset: 622 X: 19 Y: 14
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_15.pn -> region offset: 623 X: 19 Y: 15
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_16.pn -> region offset: 624 X: 19 Y: 16
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_17.pn -> region offset: 625 X: 19 Y: 17
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_18.pn -> region offset: 626 X: 19 Y: 18
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_19.pn -> region offset: 627 X: 19 Y: 19
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_20.pn -> region offset: 628 X: 19 Y: 20
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_21.pn -> region offset: 629 X: 19 Y: 21
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_22.pn -> region offset: 630 X: 19 Y: 22
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_23.pn -> region offset: 631 X: 19 Y: 23
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_24.pn -> region offset: 632 X: 19 Y: 24
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_25.pn -> region offset: 633 X: 19 Y: 25
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 19_26.pn -> region offset: 634 X: 19 Y: 26
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 20_10.pn -> region offset: 650 X: 20 Y: 10
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 20_11.pn -> region offset: 651 X: 20 Y: 11
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 20_12.pn -> region offset: 652 X: 20 Y: 12
+[21.06.17 08:59:27] INFO: Path Engine: - Loading: 20_13.pn -> region offset: 653 X: 20 Y: 13
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_14.pn -> region offset: 654 X: 20 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_15.pn -> region offset: 655 X: 20 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_16.pn -> region offset: 656 X: 20 Y: 16
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_17.pn -> region offset: 657 X: 20 Y: 17
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_18.pn -> region offset: 658 X: 20 Y: 18
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_19.pn -> region offset: 659 X: 20 Y: 19
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_20.pn -> region offset: 660 X: 20 Y: 20
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_21.pn -> region offset: 661 X: 20 Y: 21
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_22.pn -> region offset: 662 X: 20 Y: 22
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_23.pn -> region offset: 663 X: 20 Y: 23
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_24.pn -> region offset: 664 X: 20 Y: 24
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_25.pn -> region offset: 665 X: 20 Y: 25
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 20_26.pn -> region offset: 666 X: 20 Y: 26
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_10.pn -> region offset: 682 X: 21 Y: 10
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_11.pn -> region offset: 683 X: 21 Y: 11
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_12.pn -> region offset: 684 X: 21 Y: 12
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_13.pn -> region offset: 685 X: 21 Y: 13
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_14.pn -> region offset: 686 X: 21 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_15.pn -> region offset: 687 X: 21 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_16.pn -> region offset: 688 X: 21 Y: 16
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_17.pn -> region offset: 689 X: 21 Y: 17
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_18.pn -> region offset: 690 X: 21 Y: 18
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_19.pn -> region offset: 691 X: 21 Y: 19
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_20.pn -> region offset: 692 X: 21 Y: 20
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_21.pn -> region offset: 693 X: 21 Y: 21
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_22.pn -> region offset: 694 X: 21 Y: 22
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_23.pn -> region offset: 695 X: 21 Y: 23
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_24.pn -> region offset: 696 X: 21 Y: 24
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 21_25.pn -> region offset: 697 X: 21 Y: 25
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_10.pn -> region offset: 714 X: 22 Y: 10
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_11.pn -> region offset: 715 X: 22 Y: 11
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_12.pn -> region offset: 716 X: 22 Y: 12
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_13.pn -> region offset: 717 X: 22 Y: 13
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_14.pn -> region offset: 718 X: 22 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_15.pn -> region offset: 719 X: 22 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_16.pn -> region offset: 720 X: 22 Y: 16
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_17.pn -> region offset: 721 X: 22 Y: 17
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_18.pn -> region offset: 722 X: 22 Y: 18
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_19.pn -> region offset: 723 X: 22 Y: 19
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_20.pn -> region offset: 724 X: 22 Y: 20
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_21.pn -> region offset: 725 X: 22 Y: 21
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_22.pn -> region offset: 726 X: 22 Y: 22
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_23.pn -> region offset: 727 X: 22 Y: 23
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_24.pn -> region offset: 728 X: 22 Y: 24
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_25.pn -> region offset: 729 X: 22 Y: 25
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 22_26.pn -> region offset: 730 X: 22 Y: 26
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_10.pn -> region offset: 746 X: 23 Y: 10
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_11.pn -> region offset: 747 X: 23 Y: 11
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_12.pn -> region offset: 748 X: 23 Y: 12
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_13.pn -> region offset: 749 X: 23 Y: 13
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_14.pn -> region offset: 750 X: 23 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_15.pn -> region offset: 751 X: 23 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_16.pn -> region offset: 752 X: 23 Y: 16
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_17.pn -> region offset: 753 X: 23 Y: 17
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_18.pn -> region offset: 754 X: 23 Y: 18
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_19.pn -> region offset: 755 X: 23 Y: 19
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_20.pn -> region offset: 756 X: 23 Y: 20
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_21.pn -> region offset: 757 X: 23 Y: 21
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_22.pn -> region offset: 758 X: 23 Y: 22
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_23.pn -> region offset: 759 X: 23 Y: 23
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_24.pn -> region offset: 760 X: 23 Y: 24
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_25.pn -> region offset: 761 X: 23 Y: 25
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 23_26.pn -> region offset: 762 X: 23 Y: 26
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_10.pn -> region offset: 778 X: 24 Y: 10
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_11.pn -> region offset: 779 X: 24 Y: 11
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_12.pn -> region offset: 780 X: 24 Y: 12
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_13.pn -> region offset: 781 X: 24 Y: 13
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_14.pn -> region offset: 782 X: 24 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_15.pn -> region offset: 783 X: 24 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_16.pn -> region offset: 784 X: 24 Y: 16
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_17.pn -> region offset: 785 X: 24 Y: 17
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_18.pn -> region offset: 786 X: 24 Y: 18
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_19.pn -> region offset: 787 X: 24 Y: 19
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_20.pn -> region offset: 788 X: 24 Y: 20
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_21.pn -> region offset: 789 X: 24 Y: 21
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_22.pn -> region offset: 790 X: 24 Y: 22
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_23.pn -> region offset: 791 X: 24 Y: 23
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_24.pn -> region offset: 792 X: 24 Y: 24
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_25.pn -> region offset: 793 X: 24 Y: 25
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 24_26.pn -> region offset: 794 X: 24 Y: 26
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_10.pn -> region offset: 810 X: 25 Y: 10
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_11.pn -> region offset: 811 X: 25 Y: 11
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_12.pn -> region offset: 812 X: 25 Y: 12
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_14.pn -> region offset: 814 X: 25 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_15.pn -> region offset: 815 X: 25 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_16.pn -> region offset: 816 X: 25 Y: 16
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_17.pn -> region offset: 817 X: 25 Y: 17
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_18.pn -> region offset: 818 X: 25 Y: 18
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_19.pn -> region offset: 819 X: 25 Y: 19
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_20.pn -> region offset: 820 X: 25 Y: 20
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_21.pn -> region offset: 821 X: 25 Y: 21
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_22.pn -> region offset: 822 X: 25 Y: 22
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_23.pn -> region offset: 823 X: 25 Y: 23
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 25_24.pn -> region offset: 824 X: 25 Y: 24
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 26_11.pn -> region offset: 843 X: 26 Y: 11
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 26_12.pn -> region offset: 844 X: 26 Y: 12
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 26_14.pn -> region offset: 846 X: 26 Y: 14
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 26_15.pn -> region offset: 847 X: 26 Y: 15
+[21.06.17 08:59:28] INFO: Path Engine: - Loading: 26_16.pn -> region offset: 848 X: 26 Y: 16
+[21.06.17 08:59:28] INFO: ---------------------------------------------------=[ World ]
+[21.06.17 08:59:28] INFO: GameTimeController: Started.
+[21.06.17 08:59:28] INFO: InstanceManager: Multiverse Instance created.
+[21.06.17 08:59:28] INFO: InstanceManager: Universe Instance created.
+[21.06.17 08:59:28] INFO: InstanceManager: Loaded 160 instance names.
+[21.06.17 08:59:28] INFO: L2World: (128 by 136) World Region Grid set up.
+[21.06.17 08:59:28] INFO: MapRegionManager: Loaded 57 map regions.
+[21.06.17 08:59:28] INFO: GlobalVariablesManager: Loaded 6 variables.
+[21.06.17 08:59:28] INFO: ----------------------------------------------------=[ Data ]
+[21.06.17 08:59:28] INFO: CategoryData: Loaded 124 Categories.
+[21.06.17 08:59:28] INFO: SecondaryAuthData: Loaded 328 forbidden passwords.
+[21.06.17 08:59:28] INFO: -------------------------------------------------=[ Effects ]
+[21.06.17 08:59:29] INFO: EffectHandler: Loaded 147 Handlers
+[21.06.17 08:59:29] INFO: ------------------------------------=[ Enchant Skill Groups ]
+[21.06.17 08:59:29] INFO: EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[21.06.17 08:59:29] INFO: ---------------------------------------------=[ Skill Trees ]
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 17176 Class Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 76 Sub-Class Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 77 Transfer Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 117 Fishing Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 3 Collect Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 74 Pledge Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 32 Transform Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 8 Noble Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 5 Hero Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 46 Game Master Skills.
+[21.06.17 08:59:30] INFO: SkillTreesData: Loaded 46 Game Master Aura Skills.
+[21.06.17 08:59:30] INFO: --------------------------------------------------=[ Skills ]
+[21.06.17 08:59:32] INFO: DocumentEngine: Loaded 66009 Skill templates from XML files.
+[21.06.17 08:59:32] INFO: SummonSkillsTable: Loaded 1815 skills.
+[21.06.17 08:59:32] INFO: ---------------------------------------------------=[ Items ]
+[21.06.17 08:59:36] INFO: ItemData: Highest item id used:50105
+[21.06.17 08:59:36] INFO: ItemData: Loaded: 11496 Etc Items
+[21.06.17 08:59:36] INFO: ItemData: Loaded: 3844 Armor Items
+[21.06.17 08:59:36] INFO: ItemData: Loaded: 4070 Weapon Items
+[21.06.17 08:59:36] INFO: ItemData: Loaded: 19410 Items in total.
+[21.06.17 08:59:36] INFO: EnchantItemGroupsData: Loaded: 4 item group templates.
+[21.06.17 08:59:36] INFO: EnchantItemGroupsData: Loaded: 1 scroll group templates.
+[21.06.17 08:59:36] INFO: EnchantItemData: Loaded 67 Enchant Scrolls.
+[21.06.17 08:59:36] INFO: EnchantItemData: Loaded 20 Support Items.
+[21.06.17 08:59:36] INFO: EnchantItemOptionsData: Loaded: 23 Items and 1093 Options.
+[21.06.17 08:59:37] INFO: OptionData: Loaded: 24985 Options.
+[21.06.17 08:59:37] INFO: EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[21.06.17 08:59:37] INFO: MerchantPriceConfigData: Loaded 28 merchant price configs.
+[21.06.17 08:59:38] INFO: BuyListData: Loaded 754 BuyLists.
+[21.06.17 08:59:38] INFO: MultisellData: Loaded 329 multisell lists.
+[21.06.17 08:59:38] INFO: RecipeData: Loaded 1000 recipes.
+[21.06.17 08:59:38] INFO: ArmorSetsData: Loaded 198 Armor sets.
+[21.06.17 08:59:38] INFO: FishData: Loaded 278 Fishes.
+[21.06.17 08:59:38] INFO: FishingMonstersData: Loaded 8 Fishing Monsters.
+[21.06.17 08:59:38] INFO: FishingRodsData: Loaded 6 Fishing Rods.
+[21.06.17 08:59:38] INFO: HennaData: Loaded 180 Henna data.
+[21.06.17 08:59:38] INFO: -------------------------------------------=[ Product Items ]
+[21.06.17 08:59:38] INFO: ProductItemData: Loaded 1005 items for Item Mall.
+[21.06.17 08:59:38] INFO: ----------------------------------------------=[ Characters ]
+[21.06.17 08:59:38] INFO: ClassListData: Loaded 107 Class data.
+[21.06.17 08:59:38] INFO: InitialEquipmentData: Loaded 11 Initial Equipment data.
+[21.06.17 08:59:38] INFO: InitialShortcutData: Loaded 5 Initial Global Shortcuts data.
+[21.06.17 08:59:38] INFO: InitialShortcutData: Loaded 4 Initial Shortcuts data.
+[21.06.17 08:59:38] INFO: InitialShortcutData: Loaded 0 Macros presets.
+[21.06.17 08:59:38] INFO: ExperienceData: Loaded 87 levels.
+[21.06.17 08:59:38] INFO: ExperienceData: Max Player Level is: 85
+[21.06.17 08:59:38] INFO: ExperienceData: Max Pet Level is: 86
+[21.06.17 08:59:38] INFO: KarmaData: Loaded 85 karma modifiers.
+[21.06.17 08:59:38] INFO: HitConditionBonusData: Loaded Hit Condition bonuses.
+[21.06.17 08:59:39] INFO: PlayerTemplateData: Loaded 103 character templates.
+[21.06.17 08:59:39] INFO: PlayerTemplateData: Loaded 52530 level up gain records.
+[21.06.17 08:59:39] INFO: CharNameTable: Loaded 2 char names.
+[21.06.17 08:59:39] INFO: AdminData: Loaded: 10 Access Levels.
+[21.06.17 08:59:39] INFO: AdminData: Loaded: 451 Access Commands.
+[21.06.17 08:59:39] INFO: RaidBossPointsManager: Loaded 1 Characters Raid Points.
+[21.06.17 08:59:39] INFO: PetData: Loaded 49 Pets.
+[21.06.17 08:59:39] INFO: ---------------------------------------------------=[ Clans ]
+[21.06.17 08:59:39] INFO: Loaded 6 forums. Last forum id used: 6
+[21.06.17 08:59:39] INFO: ClanTable: Restored 0 clans from the database.
+[21.06.17 08:59:39] INFO: CHSiegeManager: Loaded 6 conquerable clan halls.
+[21.06.17 08:59:39] INFO: AuctionManager: Loaded: 38 auction(s)
+[21.06.17 08:59:39] INFO: ClanHallManager: Loaded: 0 clan halls
+[21.06.17 08:59:39] INFO: ClanHallManager: Loaded: 38 free clan halls
+[21.06.17 08:59:39] INFO: ----------------------------------------------------=[ NPCs ]
+[21.06.17 08:59:39] INFO: HerbDropData: Loaded 9 herb groups.
+[21.06.17 08:59:39] INFO: SkillLearnData: Loaded 256 Skill Learn data.
+[21.06.17 08:59:39] INFO: NpcTable: Loaded 10465 (Custom: 73) NPC template(s).
+[21.06.17 08:59:40] INFO: NpcTable: Loaded 103018 (Custom: 81) NPC skills.
+[21.06.17 08:59:40] INFO: NpcTable: Loaded 44227 (Custom: 17) drops.
+[21.06.17 08:59:40] INFO: NpcTable: Loaded 526 Minions.
+[21.06.17 08:59:40] INFO: NpcTable: Loaded 10461 (Custom: 70) AI Data.
+[21.06.17 08:59:40] INFO: NpcTable: Loaded 10460 (Custom: 1) Elementals Data.
+[21.06.17 08:59:41] INFO: WalkingManager: Loaded 123 walking routes.
+[21.06.17 08:59:41] INFO: StaticObjectsData: Loaded 51 StaticObject Templates.
+[21.06.17 08:59:41] INFO: GrandBossManager: Queen Ant(29001) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Core(29006) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Orfen(29014) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Baium(29020) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Valakas(29028) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Andreas Van Halter(29062) status is 1.
+[21.06.17 08:59:41] INFO: GrandBossManager: Next spawn date of Andreas Van Halter is Wed Dec 31 21:00:00 ART 1969.
+[21.06.17 08:59:41] INFO: GrandBossManager: Antharas(29068) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Beleth(29118) status is 0.
+[21.06.17 08:59:41] INFO: GrandBossManager: Loaded 8 Instances
+[21.06.17 08:59:41] INFO: DoorData: Loaded 1301 Door Templates for 21 regions.
+[21.06.17 08:59:42] INFO: ZoneManager: Loaded 29 zone classes and 2826 zones.
+[21.06.17 08:59:42] INFO: ZoneManager: Loaded 0 NPC spawn territoriers.
+[21.06.17 08:59:42] INFO: CastleManager: Loaded: 9 castles
+[21.06.17 08:59:42] INFO: FortManager: Loaded: 21 fortress
+[21.06.17 08:59:43] INFO: NpcBufferTable: Loaded 1 buffers and 10 skills.
+[21.06.17 08:59:43] INFO: GrandBossManager: Initialized 11 Grand Boss Zones
+[21.06.17 08:59:43] INFO: -----------------------------------------=[ Auction Manager ]
+[21.06.17 08:59:43] INFO: ItemAuctionInstance: Loaded 82 item(s) and registered 1 auction(s) for instance 32320.
+[21.06.17 08:59:43] INFO: ItemAuctionInstance: Schedule next auction 12 on 17:00:00 23.06.17 for instance 32320
+[21.06.17 08:59:43] INFO: ItemAuctionInstance: Loaded 82 item(s) and registered 1 auction(s) for instance 32321.
+[21.06.17 08:59:43] INFO: ItemAuctionInstance: Schedule next auction 13 on 17:00:00 26.06.17 for instance 32321
+[21.06.17 08:59:43] INFO: ItemAuctionInstance: Loaded 82 item(s) and registered 1 auction(s) for instance 32322.
+[21.06.17 08:59:43] INFO: ItemAuctionInstance: Schedule next auction 14 on 17:00:00 21.06.17 for instance 32322
+[21.06.17 08:59:43] INFO: ItemAuctionManager: Loaded 3 instance(s).
+[21.06.17 08:59:43] INFO: ------------------------------------------------=[ Olympiad ]
+[21.06.17 08:59:43] INFO: Olympiad System: Loading Olympiad System....
+[21.06.17 08:59:43] INFO: Olympiad System: Currently in Olympiad Period
+[21.06.17 08:59:43] INFO: Olympiad System: Period ends at 01/07/2017 00:00
+[21.06.17 08:59:43] INFO: Olympiad System: In 9 days, 15 hours and 0 mins.
+[21.06.17 08:59:43] INFO: Olympiad System: Next Weekly Change is in....
+[21.06.17 08:59:43] INFO: Olympiad System: In 6 days, 9 hours and 16 mins.
+[21.06.17 08:59:43] INFO: Olympiad System: Loaded 0 Noblesses
+[21.06.17 08:59:43] INFO: Olympiad System: Competition Period Starts in 0 days, 9 hours and 1 mins.
+[21.06.17 08:59:43] INFO: Olympiad System: Event starts/started : Wed Jun 21 18:00:43 ART 2017
+[21.06.17 08:59:43] INFO: Hero System: Loaded 0 Heroes.
+[21.06.17 08:59:43] INFO: Hero System: Loaded 0 all time Heroes.
+[21.06.17 08:59:43] INFO: ---------------------------------------------=[ Seven Signs ]
+[21.06.17 08:59:43] INFO: SevenSigns: Currently in the Competition (Quest Event) period!
+[21.06.17 08:59:43] INFO: SevenSigns: The Seal of Avarice remains unclaimed.
+[21.06.17 08:59:43] INFO: SevenSigns: The Seal of Gnosis remains unclaimed.
+[21.06.17 08:59:43] INFO: SevenSigns: The Seal of Strife remains unclaimed.
+[21.06.17 08:59:43] INFO: SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+[21.06.17 08:59:43] INFO: SevenSigns: Next period change set to Mon Jun 26 18:00:43 ART 2017
+[21.06.17 08:59:43] INFO: SevenSigns: Next period in 5 days 9 hours and 0 mins.
+[21.06.17 08:59:43] INFO: ---------------------------------------------------=[ Cache ]
+[21.06.17 08:59:43] INFO: Cache[HTML]: Running lazy cache
+[21.06.17 08:59:43] INFO: CrestTable: Loaded 0 Crests.
+[21.06.17 08:59:43] INFO: TeleportLocationTable: Loaded 957 Teleport Location Templates.
+[21.06.17 08:59:43] INFO: UIData: Loaded 4 keys 5 categories.
+[21.06.17 08:59:43] INFO: AugmentationData: Loaded: 33960 augmentations.
+[21.06.17 08:59:43] INFO: AugmentationData: Loaded: 2754 accessory augmentations.
+[21.06.17 08:59:43] INFO: CursedWeaponsManager: Loaded : 2 cursed weapon(s).
+[21.06.17 08:59:43] INFO: TransformData: Loaded: 111 transform templates.
+[21.06.17 08:59:43] INFO: BotReportTable: Loaded 0 bot reports
+[21.06.17 08:59:43] INFO: -------------------------------------------------=[ Scripts ]
+[21.06.17 08:59:43] INFO: AirShipManager: Loaded 0 private airships
+[21.06.17 08:59:43] INFO: --------------------------------------------=[ Gracia Seeds ]
+[21.06.17 08:59:43] INFO: Seed of Destruction Manager: Loaded. Current stage is: 1
+[21.06.17 08:59:43] INFO: Seed of Infinity Manager: Loaded. Current stage is: 1
+[21.06.17 08:59:43] INFO: ----------------------------------------=[ Datapack Scripts ]
+[21.06.17 08:59:47] INFO: BloodAltarsLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: ConquerableHallsLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: Devastated Castle: Tue Jul 04 12:00:00 ART 2017
+[21.06.17 08:59:48] INFO: Fortress of Resistance: Tue Jul 04 12:00:00 ART 2017
+[21.06.17 08:59:48] INFO: Fortresss of the Dead: Tue Jul 04 12:00:00 ART 2017
+[21.06.17 08:59:48] INFO: Rainbow Springs: Tue Jul 04 12:00:00 ART 2017
+[21.06.17 08:59:48] INFO: CustomsLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: 5th Anniversary Event - OFF
+[21.06.17 08:59:48] INFO: EventsLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: FeaturesLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: GraciaLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: SeedOfDestruction: Loaded 51 spawn zones data.
+[21.06.17 08:59:48] INFO: SeedOfDestruction: Loaded 548 spawns data.
+[21.06.17 08:59:48] INFO: GrandBossLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: GrandBossManager: Updated Andreas Van Halter(29062) status to 1
+[21.06.17 08:59:48] INFO: GroupTemplatesLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: HellboundLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: HellboundPointData: Loaded 47 trust point reward data.
+[21.06.17 08:59:48] INFO: HellboundSpawns: Loaded 598 Hellbound spawns.
+[21.06.17 08:59:48] INFO: HellboundEngine: Level: 0
+[21.06.17 08:59:48] INFO: HellboundEngine: Trust: 0
+[21.06.17 08:59:48] INFO: HellboundEngine: Status: locked.
+[21.06.17 08:59:48] INFO: RaidBossSpawnManager: Loaded 187 Instances
+[21.06.17 08:59:48] INFO: RaidBossSpawnManager: Scheduled 1 Instances
+[21.06.17 08:59:48] INFO: IndividualLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: InstanceLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: FinalEmperialTomb: Loaded 26 spawn zones data.
+[21.06.17 08:59:48] INFO: FinalEmperialTomb: Loaded 94 spawns data.
+[21.06.17 08:59:48] INFO: MasterHandler: Loading related scripts.
+[21.06.17 08:59:48] INFO: ActionHandler: Loaded 10 Handlers
+[21.06.17 08:59:48] INFO: ActionShiftHandler: Loaded 6 Handlers
+[21.06.17 08:59:48] INFO: AdminCommandHandler: Loaded 468 Handlers
+[21.06.17 08:59:48] INFO: BypassHandler: Loaded 50 Handlers
+[21.06.17 08:59:48] INFO: ChatHandler: Loaded 14 Handlers
+[21.06.17 08:59:48] INFO: ItemHandler: Loaded 34 Handlers
+[21.06.17 08:59:48] INFO: PunishmentHandler: Loaded 3 Handlers
+[21.06.17 08:59:48] INFO: SkillHandler: Loaded 27 Handlers
+[21.06.17 08:59:48] INFO: UserCommandHandler: Loaded 17 Handlers
+[21.06.17 08:59:48] INFO: VoicedCommandHandler: Loaded 42 Handlers
+[21.06.17 08:59:48] INFO: TargetHandler: Loaded 35 Handlers
+[21.06.17 08:59:48] INFO: TelnetHandler: Loaded 20 Handlers
+[21.06.17 08:59:48] INFO: ModifiersLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: NpcLoader: Loading related scripts.
+[21.06.17 08:59:48] INFO: NpcBuffersData: Loaded: 33 buffers data.
+[21.06.17 08:59:49] INFO: QuestLoader: Loading related scripts.
+[21.06.17 08:59:49] INFO: EnhanceYourWeapon: Loaded 54 Soul Crystal data.
+[21.06.17 08:59:49] INFO: EnhanceYourWeapon: Loaded 240 npc Leveling info data.
+[21.06.17 08:59:49] INFO: SunriseNpcsLoader: Loading related scripts.
+[21.06.17 08:59:49] INFO: TeleportersLoader: Loading related scripts.
+[21.06.17 08:59:49] INFO: VillageMastersLoader: Loading related scripts.
+[21.06.17 08:59:49] INFO: ZonesLoader: Loading related scripts.
+[21.06.17 08:59:49] INFO: Handy's Block Checker Event is enabled
+[21.06.17 08:59:49] INFO: Fantasy Isle: Parade starting at 2017/06/21 09:20 and is scheduled each next 1 hours.
+[21.06.17 08:59:49] INFO: GlobalLoader: Global scripts loaded in 1317 ms.
+[21.06.17 08:59:49] INFO: Bandit StrongHold: Tue Jul 04 12:00:00 ART 2017
+[21.06.17 08:59:49] INFO: Beast Farm: Tue Jul 04 12:00:00 ART 2017
+[21.06.17 08:59:49] INFO: TerritoryWarSuperClass: Sun Jun 25 22:00:00 ART 2017
+[21.06.17 08:59:51] INFO: --------------------------------------------------=[ Spawns ]
+[21.06.17 08:59:52] INFO: SpawnTable: Loaded 3955 npc spawns.
+[21.06.17 08:59:52] INFO: SpawnTable: Loaded 40 custom npc spawns.
+[21.06.17 08:59:52] INFO: SpawnTable: Loaded 1190 npc spawns from XML.
+[21.06.17 08:59:52] INFO: DayNightSpawnManager: Removed 0 day creatures
+[21.06.17 08:59:52] INFO: DayNightSpawnManager: Spawned 553 night creatures
+[21.06.17 08:59:52] INFO: DayNightSpawnManager: Spawning Hellman raidboss
+[21.06.17 08:59:52] INFO: FourSepulchersManager: loaded 20 Mysterious-Box spawns.
+[21.06.17 08:59:52] INFO: FourSepulchersManager: loaded 716 Physical monsters.
+[21.06.17 08:59:52] INFO: FourSepulchersManager: loaded 716 Magical monsters.
+[21.06.17 08:59:52] INFO: FourSepulchersManager: loaded 92 Church of duke monsters.
+[21.06.17 08:59:52] INFO: FourSepulchersManager: loaded 68 Emperor's grave NPCs.
+[21.06.17 08:59:52] INFO: FourSepulchersManager: spawned Conquerors' Sepulcher Manager
+[21.06.17 08:59:52] INFO: FourSepulchersManager: spawned Emperors' Sepulcher Manager
+[21.06.17 08:59:52] INFO: FourSepulchersManager: spawned Great Sages' Sepulcher Manager
+[21.06.17 08:59:52] INFO: FourSepulchersManager: spawned Judges' Sepulcher Manager
+[21.06.17 08:59:52] INFO: FourSepulchersManager: Beginning in WarmUp time
+[21.06.17 08:59:52] INFO: DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[21.06.17 08:59:52] INFO: DimensionalRiftManager: Loaded 462 dimensional rift spawns.
+[21.06.17 08:59:52] INFO: ---------------------------------------------------=[ Siege ]
+[21.06.17 08:59:52] INFO: Siege of Gludio: Sun Jun 25 16:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Dion: Sun Jun 25 16:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Giran: Sun Jun 25 16:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Oren: Sun Jun 25 16:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Aden: Sun Jun 25 16:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Innadril: Sun Jun 25 20:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Goddard: Sun Jun 25 20:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Rune: Sun Jun 25 20:00:00 ART 2017
+[21.06.17 08:59:52] INFO: Siege of Schuttgart: Sun Jun 25 20:00:00 ART 2017
+[21.06.17 08:59:52] INFO: SiegeScheduleData: Loaded: 2 siege schedulers.
+[21.06.17 08:59:52] INFO: CastleManorManager: Loaded 258 seeds.
+[21.06.17 08:59:53] INFO: CastleManorManager: Manor data loaded.
+[21.06.17 08:59:53] INFO: MercTicketManager: Loaded: 0 Mercenary Tickets
+[21.06.17 08:59:53] INFO: QuestManager: Loaded: 528 quests.
+[21.06.17 08:59:53] INFO: QuestManager: Loaded: 332 scripts.
+[21.06.17 08:59:53] INFO: --------------------------------------------------=[ Others ]
+[21.06.17 08:59:53] INFO: SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+[21.06.17 08:59:53] INFO: Event ID: (Squash Event) has passed... Ignored.
+[21.06.17 08:59:53] INFO: FaenorScriptEngine: Loaded  SquashEvent.xml successfully.
+[21.06.17 08:59:53] INFO: Event ID: (Valentines Event) has passed... Ignored.
+[21.06.17 08:59:53] INFO: FaenorScriptEngine: Loaded  Valentines.xml successfully.
+[21.06.17 08:59:53] INFO: TaskManager: Loaded: 15 Tasks
+[21.06.17 08:59:53] INFO: PunishmentManager: Loaded 0 active and 2 expired punishments.
+[21.06.17 08:59:53] INFO: --------------------------------------------=[ Event Engine ]
+[21.06.17 08:59:53] INFO: Event Engine: Loaded GlobalConfigs engine.
+[21.06.17 08:59:53] INFO: Event Engine: Debug messages are stored in 'log\EventEngine\EventEngine_detailed_1.log'
+[21.06.17 08:59:53] INFO: Event Engine: Thanks for using a legal version.
+[21.06.17 08:59:53] INFO: Event Engine: Loading engine version 2.2...
+[21.06.17 08:59:53] INFO: Event Engine: Using HighFive interface (for engine v2.1).
+[21.06.17 08:59:53] INFO: Event Engine: Loading Admin htmls from the jar file.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded 58 HTML files from event-engine.jar
+[21.06.17 08:59:53] INFO: Event Engine: Loaded HTML manager.
+[21.06.17 08:59:53] INFO: Event Engine: Loading events...
+[21.06.17 08:59:53] INFO: Event Engine: Next event in 10 minutes.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded 14 main events.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded 5 mini event types.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded editable Event Description system.
+[21.06.17 08:59:53] INFO: Event Engine: Processing en language -  version 2.21
+[21.06.17 08:59:53] INFO: Event Engine: Loaded en language with 266 messages.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded 1 languages.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded 14 mini event modes.
+[21.06.17 08:59:53] INFO: Event Engine: Loaded 395 configs for events.
+[21.06.17 08:59:53] INFO: Event Engine: Event Engine: Loaded 66 EventMaps.
+[21.06.17 08:59:53] INFO: Event Engine: Reward System Loaded.
+[21.06.17 08:59:54] INFO: Event Engine: Loaded 14 main event InstanceTypes.
+[21.06.17 08:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 08:59:54] INFO: Event Engine: Global statistics engine loaded.
+[21.06.17 08:59:54] INFO: Event Engine: Loaded EventWarnings engine.
+[21.06.17 08:59:54] INFO: Event Engine: Gear score engine - loaded 7914 items.
+[21.06.17 08:59:54] INFO: Event Engine: Loaded PlayerValue engine.
+[21.06.17 08:59:54] INFO: Event Engine: Version 2.2 successfully loaded.
+[21.06.17 08:59:54] INFO: ------------------------------------------=[ Server Systems ]
+[21.06.17 08:59:54] INFO: Vote System: Enabled.
+[21.06.17 08:59:54] INFO: Premium System: Enabled.
+[21.06.17 08:59:54] INFO: Pc Bang Points: Enabled.
+[21.06.17 08:59:54] INFO: Security System: Enabled.
+[21.06.17 08:59:54] INFO: Restart: Next restart: Thu Jun 22 04:00:00 ART 2017
+[21.06.17 08:59:54] INFO: Auto Restart: Enabled.
+[21.06.17 08:59:54] INFO: Announce Heros: Enabled.
+[21.06.17 08:59:54] INFO: Announce Raid's: Enabled.
+[21.06.17 08:59:54] INFO: Repair Command: Enabled.
+[21.06.17 08:59:54] INFO: Experience Command: Enabled.
+[21.06.17 08:59:54] INFO: Teleport Command System: Enabled.
+[21.06.17 08:59:54] INFO: Top Lists Updater: Enabled.
+[21.06.17 08:59:54] INFO: Auto Soul Shots: Enabled.
+[21.06.17 08:59:54] INFO: Clan Leader Color Name: Enabled.
+[21.06.17 08:59:54] INFO: Announce Castle Lords: Enabled.
+[21.06.17 08:59:54] INFO: Character Control Panel: Enabled.
+[21.06.17 08:59:54] INFO: Starting Title: Enabled.
+[21.06.17 08:59:54] INFO: Achievements Engine: Loaded 12 achievements from xml!
+[21.06.17 08:59:54] INFO: BuffsHolder: loaded 133 buffs(s) count.
+[21.06.17 08:59:54] INFO: Loaded 241 teleports for the Custom Npcs-Items.
+[21.06.17 08:59:54] INFO: ImagesCache: Loaded 0 images (data/sunrise/images/id_by_name).
+[21.06.17 08:59:54] INFO: GlobalImagesCache: Loaded 7 images (data/sunrise/images).
+[21.06.17 08:59:54] INFO: LeaderBoards: Enabled.
+[21.06.17 08:59:54] INFO: ArenaLeaderboard: Initialized
+[21.06.17 08:59:54] INFO: FishermanLeaderboard: Initialized
+[21.06.17 08:59:54] INFO: CraftLeaderboard: Initialized
+[21.06.17 08:59:54] INFO: TvTLeaderboard: Disabled.
+[21.06.17 08:59:54] INFO: Antibot Engine: Enabled.
+[21.06.17 08:59:54] INFO: Antibot Farm Engine: Enabled.
+[21.06.17 08:59:54] INFO: Antibot Enchant Engine: Disabled.
+[21.06.17 08:59:54] INFO: RaidConfigsHolder: loaded 1 raid configs(s) count.
+[21.06.17 08:59:54] INFO: RaidAndDropsHolder: loaded 2 raid and drops(s) count.
+[21.06.17 08:59:54] INFO: RaidLocationsHolder: loaded 6 raid locations(s) count.
+[21.06.17 08:59:54] INFO: RaidManager: Disabled.
+[21.06.17 08:59:54] INFO: CoupleManager: Loaded: 0 couples(s)
+[21.06.17 08:59:54] INFO: MailManager: Successfully loaded 0 messages.
+[21.06.17 08:59:54] INFO: IdFactory: Free ObjectID's remaining: 1879001947
+[21.06.17 08:59:54] INFO: OfflineTradersTable: Loaded: 0 offline trader(s)
+[21.06.17 08:59:55] INFO: GameServer: Started, free memory 2036 Mb of 2731 Mb
+[21.06.17 08:59:55] INFO: ArenaManager: Autotask init.
+[21.06.17 08:59:55] INFO: CraftManager: Autotask init.
+[21.06.17 08:59:55] INFO: FishManager: Autotask init.
+[21.06.17 08:59:55] INFO: Connecting to login on 127.0.0.1:9014
+[21.06.17 08:59:55] INFO: GameServer: is now listening on: *:7777
+[21.06.17 08:59:55] INFO: Maximum Numbers of Connected players: 5000
+[21.06.17 08:59:55] INFO: Server loaded in 32 seconds.
+[21.06.17 08:59:55] INFO: =====================================================
+[21.06.17 08:59:55] INFO: Copyrights: .............: L2JWZ-Team 2015-2016
+[21.06.17 08:59:55] INFO: Developers: .............: Gandalf and other of its revisions
+[21.06.17 08:59:55] INFO: Website: ................: www.l2jwz.com
+[21.06.17 08:59:55] INFO: Chronicle: ..............: High Five Part 5 (CT2.6)
+[21.06.17 08:59:55] INFO: L2JWZ Revision: .........: Final Edition Gold Pack
+[21.06.17 08:59:55] INFO: Core Revision: ..........: 0082 rev
+[21.06.17 08:59:55] INFO: Data Revision: ..........: 0028 rev
+[21.06.17 08:59:55] INFO: +----
+[21.06.17 08:59:55] INFO: | Global Memory Informations at 8:59:55:
+[21.06.17 08:59:55] INFO: |    |
+[21.06.17 08:59:55] INFO: | Allowed Memory: 2731 MB
+[21.06.17 08:59:55] INFO: |    |= Allocated Memory: 941 MB (34,4562%)
+[21.06.17 08:59:55] INFO: |    |= Non-Allocated Memory: 1790 MB (65,5438%)
+[21.06.17 08:59:55] INFO: | Allocated Memory: 941 MB
+[21.06.17 08:59:55] INFO: |    |= Used Memory: 726 MB (26,5837%)
+[21.06.17 08:59:55] INFO: |    |= Unused (cached) Memory: 215 MB (7,8726%)
+[21.06.17 08:59:55] INFO: | Useable Memory: 2005 MB (73,4163%)
+[21.06.17 08:59:55] INFO: +----
+[21.06.17 08:59:55] INFO: =====================================================
+[21.06.17 08:59:55] INFO: ----------------------------------------------------=[ UPnP ]
+[21.06.17 08:59:55] INFO: Looking for UPnP Gateway Devices...
+[21.06.17 08:59:58] INFO: Registered on login as Server 1 : Bartz
+[21.06.17 09:00:00] INFO: DayNightSpawnManager: Removed 553 night creatures
+[21.06.17 09:00:00] INFO: DayNightSpawnManager: Spawned 232 day creatures
+[21.06.17 09:00:00] INFO: DayNightSpawnManager: Deleting Hellman raidboss
+[21.06.17 09:00:01] INFO: Using UPnP gateway: Wireless Router TL-WR841N
+[21.06.17 09:00:01] INFO: Using local address: 192.168.0.100 External address: 181.31.123.207
+[21.06.17 09:00:01] INFO: Mapping successfull on [192.168.0.100:7777]
+[21.06.17 09:00:01] INFO: GameServer: Telnet server is currently disabled.
+[21.06.17 09:00:24] INFO: TopListsUpdater: Data reloaded in 257 ms.
+[21.06.17 09:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 09:09:53] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 09:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 09:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 09:30:24] INFO: TopListsUpdater: Data reloaded in 75 ms.
+[21.06.17 09:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 09:39:54] INFO: Event Engine: Registration phase ended.
+[21.06.17 09:39:54] INFO: Event Engine: Not enought participants.
+[21.06.17 09:39:54] INFO: Event Engine: Event TvT finished clearPlayers() for instance ID 0
+[21.06.17 09:39:54] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 09:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 09:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 09:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 09:59:54] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 10:00:24] INFO: TopListsUpdater: Data reloaded in 77 ms.
+[21.06.17 10:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 10:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 10:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 10:29:55] INFO: Event Engine: Registration phase ended.
+[21.06.17 10:29:55] INFO: Event Engine: Not enought participants.
+[21.06.17 10:29:55] INFO: Event Engine: Event CTF finished clearPlayers() for instance ID 0
+[21.06.17 10:29:55] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 10:30:24] INFO: TopListsUpdater: Data reloaded in 67 ms.
+[21.06.17 10:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 10:49:55] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 10:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 10:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 10:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 10:59:55] INFO: ArenaManager: Autotask init.
+[21.06.17 10:59:55] INFO: FishManager: Autotask init.
+[21.06.17 10:59:55] INFO: CraftManager: Autotask init.
+[21.06.17 11:00:24] INFO: TopListsUpdater: Data reloaded in 70 ms.
+[21.06.17 11:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 11:19:56] INFO: Event Engine: Registration phase ended.
+[21.06.17 11:19:56] INFO: Event Engine: Not enought participants.
+[21.06.17 11:19:56] INFO: Event Engine: Event Domination finished clearPlayers() for instance ID 0
+[21.06.17 11:19:56] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 11:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 11:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 11:30:24] INFO: TopListsUpdater: Data reloaded in 73 ms.
+[21.06.17 11:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 11:39:56] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 11:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 11:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 11:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 12:00:00] INFO: DayNightSpawnManager: Removed 232 day creatures
+[21.06.17 12:00:00] INFO: DayNightSpawnManager: Spawned 553 night creatures
+[21.06.17 12:00:00] INFO: DayNightSpawnManager: Spawning Hellman raidboss
+[21.06.17 12:00:24] INFO: TopListsUpdater: Data reloaded in 74 ms.
+[21.06.17 12:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 12:09:57] INFO: Event Engine: Registration phase ended.
+[21.06.17 12:09:57] INFO: Event Engine: Not enought participants.
+[21.06.17 12:09:57] INFO: Event Engine: Event MassDom finished clearPlayers() for instance ID 0
+[21.06.17 12:09:57] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 12:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 12:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 12:29:57] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 12:30:24] INFO: TopListsUpdater: Data reloaded in 54 ms.
+[21.06.17 12:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 12:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 12:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 12:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 12:59:55] INFO: ArenaManager: Autotask init.
+[21.06.17 12:59:55] INFO: FishManager: Autotask init.
+[21.06.17 12:59:55] INFO: CraftManager: Autotask init.
+[21.06.17 12:59:58] INFO: Event Engine: Registration phase ended.
+[21.06.17 12:59:58] INFO: Event Engine: Not enought participants.
+[21.06.17 12:59:58] INFO: Event Engine: Event DM finished clearPlayers() for instance ID 0
+[21.06.17 12:59:58] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 13:00:00] INFO: DayNightSpawnManager: Removed 553 night creatures
+[21.06.17 13:00:00] INFO: DayNightSpawnManager: Spawned 232 day creatures
+[21.06.17 13:00:00] INFO: DayNightSpawnManager: Deleting Hellman raidboss
+[21.06.17 13:00:24] INFO: TopListsUpdater: Data reloaded in 77 ms.
+[21.06.17 13:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 13:19:58] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 13:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 13:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 13:30:24] INFO: TopListsUpdater: Data reloaded in 53 ms.
+[21.06.17 13:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 13:49:59] INFO: Event Engine: Registration phase ended.
+[21.06.17 13:49:59] INFO: Event Engine: Not enought participants.
+[21.06.17 13:49:59] INFO: Event Engine: Event LastMan finished clearPlayers() for instance ID 0
+[21.06.17 13:49:59] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 13:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 13:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 13:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 14:00:24] INFO: TopListsUpdater: Data reloaded in 74 ms.
+[21.06.17 14:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 14:09:59] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 14:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 14:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 14:30:24] INFO: TopListsUpdater: Data reloaded in 66 ms.
+[21.06.17 14:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 14:40:00] INFO: Event Engine: Registration phase ended.
+[21.06.17 14:40:00] INFO: Event Engine: Not enought participants.
+[21.06.17 14:40:00] INFO: Event Engine: Event TvTAdv finished clearPlayers() for instance ID 0
+[21.06.17 14:40:00] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 14:59:48] INFO: GrandBossManager: Updated Andreas Van Halter(29062) status to 0
+[21.06.17 14:59:48] INFO: GrandBossManager: Updated Andreas Van Halter(29062) status to 1
+[21.06.17 14:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 14:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 14:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 14:59:55] INFO: ArenaManager: Autotask init.
+[21.06.17 14:59:55] INFO: FishManager: Autotask init.
+[21.06.17 14:59:55] INFO: CraftManager: Autotask init.
+[21.06.17 15:00:00] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 15:00:24] INFO: TopListsUpdater: Data reloaded in 78 ms.
+[21.06.17 15:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 15:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 15:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 15:30:01] INFO: Event Engine: Registration phase ended.
+[21.06.17 15:30:01] INFO: Event Engine: Not enought participants.
+[21.06.17 15:30:01] INFO: Event Engine: Event Chests finished clearPlayers() for instance ID 0
+[21.06.17 15:30:01] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 15:30:24] INFO: TopListsUpdater: Data reloaded in 67 ms.
+[21.06.17 15:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 15:50:01] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 15:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 15:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 15:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 16:00:00] INFO: DayNightSpawnManager: Removed 232 day creatures
+[21.06.17 16:00:00] INFO: DayNightSpawnManager: Spawned 553 night creatures
+[21.06.17 16:00:00] INFO: DayNightSpawnManager: Spawning Hellman raidboss
+[21.06.17 16:00:24] INFO: TopListsUpdater: Data reloaded in 74 ms.
+[21.06.17 16:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 16:20:02] INFO: Event Engine: Registration phase ended.
+[21.06.17 16:20:02] INFO: Event Engine: Not enought participants.
+[21.06.17 16:20:02] INFO: Event Engine: Event Zombies finished clearPlayers() for instance ID 0
+[21.06.17 16:20:02] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 16:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 16:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 16:30:24] INFO: TopListsUpdater: Data reloaded in 67 ms.
+[21.06.17 16:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 16:40:02] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 16:57:47] INFO: SpawnSchedule: Spawning Raid Boss Typhoon
+[21.06.17 16:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 16:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 16:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 16:59:55] INFO: ArenaManager: Autotask init.
+[21.06.17 16:59:55] INFO: FishManager: Autotask init.
+[21.06.17 16:59:55] INFO: CraftManager: Autotask init.
+[21.06.17 17:00:00] INFO: DayNightSpawnManager: Removed 553 night creatures
+[21.06.17 17:00:00] INFO: DayNightSpawnManager: Spawned 232 day creatures
+[21.06.17 17:00:00] INFO: DayNightSpawnManager: Deleting Hellman raidboss
+[21.06.17 17:00:00] INFO: ScheduleAuctionTask: Auction 14 has started for instance 32322
+[21.06.17 17:00:00] INFO: ItemAuctionInstance: Schedule current auction 14 for instance 32322
+[21.06.17 17:00:24] INFO: TopListsUpdater: Data reloaded in 61 ms.
+[21.06.17 17:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 17:10:03] INFO: Event Engine: Registration phase ended.
+[21.06.17 17:10:03] INFO: Event Engine: Not enought participants.
+[21.06.17 17:10:03] INFO: Event Engine: Event Mutant finished clearPlayers() for instance ID 0
+[21.06.17 17:10:03] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 17:29:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 17:29:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 17:30:03] INFO: Event Engine: Trying to find an event to be started:
+[21.06.17 17:30:24] INFO: TopListsUpdater: Data reloaded in 55 ms.
+[21.06.17 17:38:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 17:59:53] INFO: SevenSigns: Data updated successfully.
+[21.06.17 17:59:54] INFO: PremiumChecker: Services reloaded in 0 ms.
+[21.06.17 17:59:54] INFO: Event Engine: Global statistics reloaded.
+[21.06.17 18:00:04] INFO: Event Engine: Registration phase ended.
+[21.06.17 18:00:04] INFO: Event Engine: Not enought participants.
+[21.06.17 18:00:04] INFO: Event Engine: Event THunt finished clearPlayers() for instance ID 0
+[21.06.17 18:00:04] INFO: Event Engine: Next event in 20 minutes.
+[21.06.17 18:00:24] INFO: TopListsUpdater: Data reloaded in 81 ms.
+[21.06.17 18:00:43] INFO: Olympiad System: Olympiad Game Started
+[21.06.17 18:00:43] INFO: Olympiad System: Loaded 160 stadiums.
+[21.06.17 18:08:13] INFO: GlobalVariablesManager: Stored 6 variables.
+[21.06.17 18:14:53] INFO: Olympiad System: Data updated.
+[21.06.17 18:20:04] INFO: Event Engine: Trying to find an event to be started:

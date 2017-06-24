@@ -1,0 +1,11 @@
+[20.06.17 22:22:53] ERROR:Failed to load geodata driver!
+java.io.FileNotFoundException: config\main\Geodata.ini (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at l2r.gameserver.GeoData.<init>(GeoData.java:68)
+	at l2r.gameserver.GeoData$SingletonHolder.<clinit>(GeoData.java:679)
+	at l2r.gameserver.GeoData.getInstance(GeoData.java:674)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:206)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
